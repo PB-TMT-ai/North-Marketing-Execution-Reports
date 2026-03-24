@@ -1,0 +1,55 @@
+serial_no,region,painting_type,state,city,location,site_name,status,latitude,longitude,wall_number,wall_tenure_months,rented_or_free,execution_date,remarks,plan_sqft,actual_sqft,width,height,source_file,source_sheet
+1,North,IMPACT,HR,Sonipat,"Gohana, Sonipat – Haryana",Haryana,OK,29.133274,76.713564,BRANDHUT- 01,,Rented Wall,17-05-2025,82953 57772,,6405,BRANDHUT- 01,BRANDHUT- 01,Impact WP - 100625 (4).xlsx,Impact Jun25 - HR
+2,North,IMPACT,HR,Rohtak,"Sampla, Rohtak – Haryana",Haryana,OK,28.76776,77.778509,BRANDHUT- 02,,Rented Wall,19-05-2025,97176 47156,,5928,BRANDHUT- 02,BRANDHUT- 02,Impact WP - 100625 (4).xlsx,Impact Jun25 - HR
+3,North,IMPACT,HR,Rohtak,"Sampla, Rohtak – Haryana",Haryana,OK,28.771617,76.774242,BRANDHUT- 03,,Rented Wall,10-06-2025,98135 81406,,6435,BRANDHUT- 03,BRANDHUT- 03,Impact WP - 100625 (4).xlsx,Impact Jun25 - HR
+4,North,IMPACT,HR,Rohtak,"Subhash Rd, Company Bagh, Rohtak – Haryana",Haryana,OK,28.899332,76.586126,BRANDHUT- 04,,Rented Wall,09-05-2025,6397213668,,5290,BRANDHUT- 04,BRANDHUT- 04,Impact WP - 100625 (4).xlsx,Impact Jun25 - HR
+5,North,IMPACT,HR,Sonipat,"Near Dalal & Sons Kalluram  Dharmsala, Kharkhoda, Sonipat",Haryana,OK,28.877295,76.922953,BRANDHUT- 05,,Rented Wall,10-06-2025,7027295540,,2970,BRANDHUT- 05,BRANDHUT- 05,Impact WP - 100625 (4).xlsx,Impact Jun25 - HR
+6,North,IMPACT,HR,Sonipat,"Patel Nagar, Jindal City Road – Sonipat",Haryana,OK,28.960622,77.037572,BRANDHUT- 06,,Rented Wall,10-06-2025,9812712385,,4620,BRANDHUT- 06,BRANDHUT- 06,Impact WP - 100625 (4).xlsx,Impact Jun25 - HR
+7,North,IMPACT,HR,Sonipat,"Bahalgarh, Sonipat – Haryana",Haryana,OK,28.966566,77.090712,BRANDHUT- 07,,Rented Wall,11-06-2025,9050175199,,6223,BRANDHUT- 07,BRANDHUT- 07,Impact WP - 100625 (4).xlsx,Impact Jun25 - HR
+8,North,IMPACT,HR,Sonipat,"Grand Trunk Rd, Bahalgarh, Sonipat – Haryana",Haryana,OK,28.964466,77.091454,BRANDHUT- 08,,Rented Wall,14-06-2025,9306415766,,6300,BRANDHUT- 08,BRANDHUT- 08,Impact WP - 100625 (4).xlsx,Impact Jun25 - HR
+1,North,IMPACT,UP,Ghaziabad,"Delhi – Meerut Exp Way, Budh Vihar,
+ Limra Hospital  Ghaziabad",Uttar Pradesh,OK,28.63651,77.397637,BRANDHUT- 01,,Rented Wall,2025-06-03 00:00:00,98114 84481,,5280,BRANDHUT- 01,BRANDHUT- 01,Impact WP - 100625 (4).xlsx,Impact Jun25 - Ghaziabad
+2,North,IMPACT,UP,Ghaziabad,"Delhi – Meerut Exp Way, Budh Vihar,
+ Limra Hospital  Ghaziabad",Uttar Pradesh,OK,28.636912,77.392926,BRANDHUT- 02,,Rented Wall,2025-06-04 00:00:00,,,5280,BRANDHUT- 02,BRANDHUT- 02,Impact WP - 100625 (4).xlsx,Impact Jun25 - Ghaziabad
+3,North,IMPACT,UP,Ghaziabad,"Delhi – Meerut Exp Way,Bahrampur,
+ Mayank Hotel  Ghaziabad",Uttar Pradesh,OK,28.636702,77.397984,BRANDHUT- 03,,Rented Wall,2025-06-05 00:00:00,84454 15093,,3795,BRANDHUT- 03,BRANDHUT- 03,Impact WP - 100625 (4).xlsx,Impact Jun25 - Ghaziabad
+4,North,IMPACT,UP,Ghaziabad,"Near Palwal Extension, Ghaziabad",Uttar Pradesh,OK,28.688084,77.543154,BRANDHUT- 04,,Rented Wall,2025-05-07 00:00:00,90502 69695,,4224,BRANDHUT- 04,BRANDHUT- 04,Impact WP - 100625 (4).xlsx,Impact Jun25 - Ghaziabad
+5,North,IMPACT,UP,Ghaziabad,"Masuri, Azadd Car Garage, Ghaziabad",Uttar Pradesh,OK,28.688794,77.547554,BRANDHUT- 05,,Rented Wall,2025-05-07 00:00:00,93132 14900,,3108,BRANDHUT- 05,BRANDHUT- 05,Impact WP - 100625 (4).xlsx,Impact Jun25 - Ghaziabad
+1,North,IMPACT,HR,Jind,"Bhiwani Rd, Burger King Hotel – Haryana",Haryana,OK,29.281452,76.305144,BRANDHUT- 01,,,,,,5668,BRANDHUT- 01,BRANDHUT- 01,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+2,North,IMPACT,HR,Jind,"Near Police Chowki, T Point Safido Road",Haryana,OK,29.305468,76.28792,BRANDHUT- 02,,,,9034378176,,5166,BRANDHUT- 02,BRANDHUT- 02,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+3,North,IMPACT,HR,Gurugram,Wall Of Pataudi Citizen Tailors,Haryana,OK,28.336542,76.769712,BRANDHUT- 03,,,,9817161782,,7436,BRANDHUT- 03,BRANDHUT- 03,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+4,North,IMPACT,HR,Gurugram,"Manesar Road Bhoran Kalan, Infront of UNM Kargo",Haryana,OK,28.303546,76.827482,BRANDHUT- 04,,,,7056097663,,5445,BRANDHUT- 04,BRANDHUT- 04,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+5,North,IMPACT,HR,Gurugram,"Wooden Street Showroom, Maneshar Rampura",Haryana,OK,28.380917,76.964504,BRANDHUT- 05,,,,9999984550,,8910,BRANDHUT- 05,BRANDHUT- 05,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+6,North,IMPACT,HR,Gurugram,"Charkhi Dadri, Gurugram – Haryana",Haryana,OK,28.584076,76.275453,BRANDHUT- 06,,,,,,3450,BRANDHUT- 06,BRANDHUT- 06,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+7,North,IMPACT,HR,Gurugram,"Vidhya Vihar Colony, Chakhri Dadri - Gurugram",Haryana,OK,28.593291,76.284386,BRANDHUT- 07,,,,,,3822,BRANDHUT- 07,BRANDHUT- 07,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+8,North,IMPACT,HR,Gurugram,"Vidhya Vihar Colony, Chakhri Dadri - Gurugram",Haryana,OK,28.59295,76.284702,BRANDHUT- 08,,,,,,3430,BRANDHUT- 08,BRANDHUT- 08,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+9,North,IMPACT,HR,Hisar,"Ghursal Road, Hisar - Haryana",Haryana,OK,29.288821,75.6431,BRANDHUT- 09,,,,,,5490,BRANDHUT- 09,BRANDHUT- 09,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+10,North,IMPACT,HR,Hisar,Agroha - Haryana,Haryana,OK,29.918513,75.63835,BRANDHUT- 10,,,,,,2257,BRANDHUT- 10,BRANDHUT- 10,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+11,North,IMPACT,HR,Plawal,"NH- 19 Rock Colony, Palwal - Haryana",Haryana,OK,28.155318,77.326994,BRANDHUT- 11,,,,8168464827,,7585,BRANDHUT- 11,BRANDHUT- 11,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+12,North,IMPACT,HR,Faridabad,"Tigaon Main Road, Faridabad - Haryana",Haryana,OK,28.358861,77.39283,BRANDHUT- 12,,,,9990761573,,3900,BRANDHUT- 12,BRANDHUT- 12,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+13,North,IMPACT,HR,Faridabad,"Bhoomi Enterprises Industries, Faridabad - Haryana",Haryana,OK,28.387743,77.284651,BRANDHUT- 13,,,,,,10230,BRANDHUT- 13,BRANDHUT- 13,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+14,North,IMPACT,HR,Hisar,"Dhana, Hisar - Haryana",Haryana,OK,29.090191,76.000202,BRANDHUT- 14,,,,,,5120,BRANDHUT- 14,BRANDHUT- 14,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+15,North,IMPACT,UP,,Khatuli,UP,OK,,,BrandHUT- 15,,,,,,1920,BrandHUT- 15,BrandHUT- 15,JSW IMPACT - 080725.xlsx,Impact Jul25 - HR
+1,North,,Rajasthan,Jaipur,Dudu,,Done,26.668577,75.241287,Uaa@1 MADHOPUR Jaipur,2026-07-26 00:00:00,Rented,2026-01-26 00:00:00,,18000,,Uaa@1 MADHOPUR Jaipur,,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+2,North,,Rajasthan,Jaipur,Dudu,,Done,26.668748,75.241381,Uaa@1 MADHOPUR Jaipur,2026-07-26 00:00:00,Rented,2026-01-26 00:00:00,,,,Uaa@1 MADHOPUR Jaipur,,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+3,North,,Rajasthan,Jaipur,Mahlan,,Done,RF6F+ 7VG,RF6F+ 7VG,uaa@2 MAHLAN Jaipur,2026-07-28 00:00:00,Rented,2026-01-28 00:00:00,,,,uaa@2 MAHLAN Jaipur,,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+4,North,,Rajasthan,"Sikar Road, Jaipur",Jaipur,,Done,27.318634,75.612788,Uaa@03 Sikar Raod,2026-08-07 00:00:00,Rented,2026-02-07 00:00:00,,,,Uaa@03 Sikar Raod,,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+5,North,,Rajasthan,Jaipur,Nangal,,Done,27.0639,75.751038,"Uaa@04 Nangal , Jaipur",2026-08-13 00:00:00,Rented,2026-02-13 00:00:00,,,,"Uaa@04 Nangal , Jaipur",,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+6,North,,Rajasthan,Jaipur,Mansarover,,Done,26.869458,75.739035,Uaa@05 Jaipur,2026-08-21 00:00:00,Rented,2026-02-21 00:00:00,,,,Uaa@05 Jaipur,,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+7,North,,Rajasthan,Jaipur,Geetanjail Colony,,Done,26.868031,75.741968,Uaa@06 Jaipur,2026-08-23 00:00:00,Rented,2026-02-23 00:00:00,,,,Uaa@06 Jaipur,,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+8,North,,Rajasthan,Jaipur,Jaipur,,Done,27.291471,75.623864,Uaa@07 Jaipur,2026-08-25 00:00:00,Rented,2026-02-25 00:00:00,,,,Uaa@07 Jaipur,,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+9,North,,Rajasthan,Jaipur,"Sikar Road, Rajawas",,Done,27.056356,75.753475,Uaa@08Jaipur,2026-09-01 00:00:00,,2026-03-01 00:00:00,,,,Uaa@08Jaipur,,JSW Impact Wall Xls Jaipur Area (1).xlsx,Impact - Jaipur
+1,North,,UP,Kurhasadat,Lucknow To Ayodhya Road,,,26.781733',81.760123',Wall 8(36x46),05.07.2025,,,,40000,1656,Wall 8(36x46),,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Gondwa,Lucknow To Ayodhya Road,,,26.770986',81.925658',"Wall 9(39x45,35x28,20x19.5)",05.07.2025,,,,,3125,"Wall 9(39x45,35x28,20x19.5)",,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Janoura,Ayodhya To Lucknow Rd,,,26.762139',82.161817',"wall 10(61.5x35,35x40)",09.07.2025,,,,,3552,"wall 10(61.5x35,35x40)",,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Deendyal Nagar,Ayodhya,,,26.760387',82.162963',Wall 11(85x38),11.07.2025,,,,,3230,Wall 11(85x38),,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Barabanki,Deva Road,,,27.024105',81.170761',"Wall 12(46x56,20x5)",14.07.2025,,,,,2676,"Wall 12(46x56,20x5)",,UP Impact Wall (3).xlsx,Impact - UP
+2,North,,UP,Sursanda,Ayodhya To Lucknow Rd,,,26.926014',81.241826',Wall 7(65x35),03.07.2025,,,,,2275,Wall 7(65x35),,UP Impact Wall (3).xlsx,Impact - UP
+3,North,,UP,Neemteekar,Lko To Prayagraj Highway,,,26.487596',81.094048',Wall 1(83x35.5),13.06.2025,,,,,2946.5,Wall 1(83x35.5),,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Gaura,Lko To Prayagraj Highway,,,26.647802',80.99397',Wall 2(50x32),15.06.2025,,,,,1600,Wall 2(50x32),,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Bhagwanpur,Raebareli Road,,,26.550338',81.04625',Wall 3(63x31.5),16.06.2025,,,,,1984.5,Wall 3(63x31.5),,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Bhawa Khera,Lko To Prayagraj Highway,,,26.582838',81.025271',Wall 4(56x49),22.06.2025,,,,,2744,Wall 4(56x49),,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Utrawan,Lko To Prayagraj Highway,,,26.624503',81.00281',Wall 5(35x60),24.06.2025,,,,,2100,Wall 5(35x60),,UP Impact Wall (3).xlsx,Impact - UP
+,,,,Bachhrawan,Lko To Prayagraj Highway,,,26.480949',81.103028',Wall 6(45x55),26.06.2025,,,,,2475,Wall 6(45x55),,UP Impact Wall (3).xlsx,Impact - UP
+1,North,,UP,,,,,,,,,,,,30000,,,,UP Impact Wall (3).xlsx,Impact - UP
+2,North,,UP,,,,,,,,,,,,,,,,UP Impact Wall (3).xlsx,Impact - UP

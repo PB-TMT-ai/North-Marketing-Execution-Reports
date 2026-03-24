@@ -1,0 +1,67 @@
+serial_no,dealer_name,area,district,phone,oneway_desc,oneway_sqft,vinyl_desc,vinyl_sqft,sunboard_desc,sunboard_sqft,gsb,source_file
+1,RIDDHI ENTERPRISES,PATIALA,Patiala,9417219071,"13x3 1pcs  = 39
+25.5x3 1pcs = 75",114,,,"35x2 5pcs = 320 , 
+162inch x15inch  1pcs = 20.25
+162x32 1pcs = 40.5 
+223x72 1pcs =111",491.75,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+2,PABBI SALES,LUDHIANA,Ludhiana,9815168136,5.5x7 1pcs = 42,42,,,"180x96 1pcs 120
+ 44x2 6pcs = 528
+40x2 1pcs= 80",728,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+10,SAT PAUL SOOD & SONS.,PATIALA,Patiala,9814255638,"27x52 1pcs, =10
+ 35x48 1pcs= 12",27,"29x21 1pcs - 5, 31x23 1pcs, -5 
+56x12 1pcs -5, 84x12 1pcs -7, 
+18x47 1pcs - 6, 21x46 1pcs - 8
+24x29 1pcs-5, 25x21 2pcs - 8, 
+39x21 1pcs - 6, 27x21 2pcs -10, 
+36x21 1pcs - 6, 30x43 1pcs - 10,
+25x24 2pcs-8, 36x20 1pcs-6,
+27x24 2pcs - 10, 36x24 1pcs -6",111,"156x136 1pc=143
+ 168x136 1pcs= 154",297,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+,,,,,Total,183,,111,,1516.75,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+8,Happy Cement Store,Sirsa,Sirsa,94163 09801,,,2x2,4,"11x6-66
+9x2.5-22.5
+10x5-50",138.5,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+9,SURAJ BHAN NIRANIA SALES COP.,"Surya Nagar, Shanti Nagar, Bhiwani - 127021",Bhiwani,9034887796,95x29 1pcs = 20,20,,,"240x120 1pcs = 200
+180x1201pcs = 120
+63x28 1pcs = 15
+65x28 1pcs= 15",350,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+11,SHREE RAJ SHYAMA JI ENTERPRISES,x-47 loha mandi  nariana - 110028,West Delhi,9873636655,"22X39 = 6
+21X43 = 8
+42X42  = 16",30,"22x32 1pcs -6
+22x35 1pcs -6
+42x32 1pcs, - 10.5",22.5,"17x5 1pcs =85
+20x6 1pcs =120
+20x10 1pcs=200",405,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+,,,,,,50,,26.5,,893.5,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+3,HINGLAJ IRON STORE,"NH-15 Near Chouhttan Circle, Barmer, 344001",Barmer,9414107455,"5x4 1pcs,=20
+ 27x18 2pcs =7.5",27.5,,,"30ftx8ft1pcs = 240
+17.5x10 2pcs =350
+29ftx6ft 1pcs=174
+112inch x 84 inch = 63
+9x7 1pcs =63
+25ftx 10ft = 250",1140,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+4,JUGAL INDUSTRIES,"Silpgram Industires, Jaisalmer, 345001",Jaisalmer,9414642426,30x50= 1pcs 10,10,"30x24=3pcs= 15
+ 55x29= 13.5
+54x30==13.5",42,,,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+5,SHAKTI STEELS,"Sangeria Fanta ,Jodhpur 342005",Jodhpur,7448100000,,,,,"15x4 1pcs = 60
+20x5- 2pcs=200
+50x5 1pcs = 250 
+60x5 1pcs= 300",810,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+6,AARTI STEEL,JODHPUR,Jodhpur,7737918615,,,,,"30x5 = 150
+20x7 = 140
+15x6 = 90
+10x8 = 80
+6x4 = 24
+2.5x6 = 15
+30x6 =180
+30x8 = 240
+28x4 = 112
+10x6 = 60",1091,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+7,KABRA IRON AGENCIES,"Sardarpura, Jodhpur, 342001",Jodhpur,9829028700,,,,,"9x3 1pcs=27
+7x4 1pcs = 28",55,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+12,Mahadev Building Material,Jodhpur,Jodhpur,"9460662851,
+9413849661",,,,,"30X8-240
+20X5-100
+10X5-50",390,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+,,,,,Total,37.5,,42,,3486,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"
+,,,,,Oneway,270.5,Vinyl,179.5,Sunboard Toatal,5896.25,,"inshop (PB, HR, RJ, Delhi ) (1).xlsx"

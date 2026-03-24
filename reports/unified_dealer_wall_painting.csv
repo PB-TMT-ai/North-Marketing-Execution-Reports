@@ -1,0 +1,607 @@
+serial_no,region,dealer_name,state,city,location,phone,district,status,latitude,longitude,wall_number,painting_type,wall_tenure_months,rented_or_free,rent_amount,execution_date,remarks,plan_sqft,actual_sqft,size,source_file,source_sheet
+1,North,Sharma Cement Store,Jammu,Vijayour,"Vijaypur , Jammu India",9796044009,,Done,32.558004,75.012066,Uaa@ 1 SharmaCementStore 14/01/2026,,,FREE,FREE,2026-01-14 00:00:00,,,150,15x10,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Sharma Cement Store,Jammu,Vijayour,"Vijaypur , Jammu India",9796044009,,Done,32.557586,75.011613,Uaa@ 2 SharmaCementStore 14/01/2026,,,Free,Free,2026-01-14 00:00:00,,,1300,100x13,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Sharma Cement Store,Jammu,Vijayour,"Vijaypur , Jammu India",9796044009,,Done,32.557986,75.012044,Uaa@ 3 SharmaCementStore 14/01/2026,,,free,free,2026-01-14 00:00:00,,,110,10x11,Bill no 145 Dealer WP (1).xlsx,Bill 145
+4,North,Sharma Cement Store,Jammu,Vijayour,"Vijaypur , Jammu India",9796044009,,Done,32.557726,75.011818,Uaa@ 4 SharmaCementStore 14/01/2026,,,Free,Free,2026-01-13 00:00:00,,,288,8x9x4,Bill no 145 Dealer WP (1).xlsx,Bill 145
+5,North,Sharma Cement Store,Jammu,Vijayour,"Vijaypur , Jammu India",9796044009,,Done,32.557766,75.011838,Uaa@ 5 SharmaCementStore 14/01/2026,,,Free,Free,2026-01-14 00:00:00,,,312,26x12,Bill no 145 Dealer WP (1).xlsx,Bill 145
+6,North,Sharma Cement Store,Jammu,Vijayour,"Vijaypur , Jammu India",9796044009,,Done,32.559044,75.012919,Uaa@ 6 SharmaCementStore 14/01/2026,,,Free,Free,2026-01-14 00:00:00,,,444,37x12,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Encore Const. & hw,Jammu,Udhampur,"Udhampur , Jammu , India",,,Done,32.902825,75.124724,Uaa@1_Encore Const. & hw_14/01/2026,,,,,2026-01-12 00:00:00,,,539,25x11+16x11 + 7x4 + 5x6x2,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Encore Const. & hw,Jammu,Udhampur,"Udhampur , Jammu , India",,,Done,32.902925,75.124776,Uaa@2_Encore Const. & hw_14/01/2026,,,Free,Free,2026-01-12 00:00:00,,,440,40x11,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Encore Const. & hw,Jammu,Udhampur,"Udhampur , Jammu , India",,,Done,32.902973,75.124963,Uaa@3_Encore Const. & hw_14/01/2026,,,Free,Free,2026-01-12 00:00:00,,,228,38x6,Bill no 145 Dealer WP (1).xlsx,Bill 145
+4,North,Encore Const. & hw,Jammu,Udhampur,"Udhampur , Jammu , India",,,Done,32.901022,75.123424,Uaa@4_Encore Const. & hw_14/01/2026,,,Free,Free,2026-01-12 00:00:00,,,750,50x15,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,U J Enterprise,Jammu,Reasi,"Reasi , Jammu , India",,,Done,32.934735,74.984869,Uaa@ 1 U J Enterprise 12/01/2026,,,Free,Free,2026-01-12 00:00:00,,,1510,25x22 + 10x9 + 12x10 - 6x6 + 50x15 + 12x3,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,U J Enterprise,Jammu,Reasi,"Reasi , Jammu , India",,,Done,32.934645,74.984889,Uaa@ 2 U J Enterprise 12/01/2026,,,Free,Free,2026-01-12 00:00:00,,,90,10x9,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,U J Enterprise,Jammu,Reasi,"Reasi , Jammu , India",,,Done,32.934509,74.984863,Uaa@ 3 U J Enterprise 12/01/2026,,,Free,Free,2026-01-12 00:00:00,,,224,16x14,Bill no 145 Dealer WP (1).xlsx,Bill 145
+4,North,U J Enterprise,Jammu,Reasi,"Reasi , Jammu , India",,,Done,32.935113,74.984933,Uaa@ 4 U J Enterprise 12/01/2026,,,Free,Free,2026-01-12 00:00:00,,,878,32x12 + 38+13,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Standard Building Sol,Jammu,Reasi,"Reasi , Jammu , India",,,Done,33.018686,74.89122,Uaa@ 1 Standard Building Sol 10/01/2026,,,Free,Free,2026-01-10 00:00:00,,,1360,50x13 + 20x12.5 + 25x4 + 60x6,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Standard Building Sol,Jammu,Reasi,"Reasi , Jammu , India",,,Done,33.018733,74.891033,Uaa@ 2 Standard Building Sol 10/01/2026,,,Free,Free,2026-01-10 00:00:00,,,274,12x11 + 15x6 + 13x4,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Standard Building Sol,Jammu,Reasi,"Reasi , Jammu , India",,,Done,33.019453,74.881271,Uaa@ 3 Standard Building Sol 10/01/2026,,,Free,Free,2026-01-10 00:00:00,,,335,15x11 + 17x10,Bill no 145 Dealer WP (1).xlsx,Bill 145
+4,North,Standard Building Sol,Jammu,Reasi,"Reasi , Jammu , India",,,Done,33.019669,74.881314,Uaa@ 4 Standard Building Sol 10/01/2026,,,Free,Free,2026-01-10 00:00:00,,,635,15x11 +17x10 + 30x10,Bill no 145 Dealer WP (1).xlsx,Bill 145
+5,North,Standard Building Sol,Jammu,Reasi,"Reasi , Jammu , India",,,Done,33.018786,74.885951,Uaa@ 5 Standard Building Sol 10/01/2026,,,Free,Free,2026-01-10 00:00:00,,,187,17x11,Bill no 145 Dealer WP (1).xlsx,Bill 145
+6,North,Standard Building Sol,Jammu,Reasi,"Reasi , Jammu , India",,,Done,33.008419,74.897944,Uaa@ 6 Standard Building Sol 10/01/2026,,,Free,Free,2026-01-10 00:00:00,,,270,30x9,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Mangotra Builders,Jammu,Jammu,"Jammu , India",9018664606,,Done,32.750616,74.844355,Uaa@ 1 Mangotra Builders 08/01/2026,,,Free,Free,2026-01-08 00:00:00,,,477,25x5 + 20x17 + 6x2,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Mangotra Builders,Jammu,Jammu,"Jammu , India",9018664606,,Done,32.750397,74.844491,Uaa@ 2 Mangotra Builders 08/01/2026,,,Free,Free,2026-01-08 00:00:00,,,730,25x13 + 20x12 + 15x11,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Mangotra Builders,Jammu,Jammu,"Jammu , India",9018664606,,Done,32.736296,74.823572,Uaa@ 3 Mangotra Builders 08/01/2026,,,Free,Free,2026-01-08 00:00:00,,,640,20x12 + 28x12 + 8x5 + 8x3,Bill no 145 Dealer WP (1).xlsx,Bill 145
+4,North,Mangotra Builders,Jammu,Jammu,"Jammu , India",9018664606,,Done,32.736308,74.823529,Uaa@ 4 Mangotra Builders 08/01/2026,,,Free,Free,2026-01-08 00:00:00,,,258,48x5 + 6x3,Bill no 145 Dealer WP (1).xlsx,Bill 145
+5,North,Mangotra Builders,Jammu,Jammu,"Jammu , India",9018664606,,Done,32.736215,74.823574,Uaa@ 5 Mangotra Builders 08/01/2026,,,Free,Free,2026-01-08 00:00:00,,,240,20x12,Bill no 145 Dealer WP (1).xlsx,Bill 145
+6,North,Mangotra Builders,Jammu,Jammu,"Jammu , India",9018664606,,Done,32.736307,74.823482,Uaa@ 6 Mangotra Builders 08/01/2026,,,Free,Free,2026-01-08 00:00:00,,,240,48x5,Bill no 145 Dealer WP (1).xlsx,Bill 145
+7,North,Mangotra Builders,Jammu,Jammu,"Jammu , India",9018664606,,Done,32.750669,74.844455,Uaa@ 7 Mangotra Builders 08/01/2026,,,Free,Free,2026-01-08 00:00:00,,,226,27x5 + 11x5 + 6x3x2,Bill no 145 Dealer WP (1).xlsx,Bill 145
+8,North,Mangotra Builders,Jammu,Jammu,"Jammu , India",9018664606,,Done,32.750651,74.84449,Uaa@ 8 Mangotra Builders 08/01/2026,,,Free,Free,2026-01-08 00:00:00,,,160,32x5,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Aman Cement Store,Jammu,Jammu,"Jammu , India",9419194422,,Done,32.656703,74.907319,Uaa@ 1 Aman Cement Store 05/01/2026,,,Free,Free,2026-01-05 00:00:00,,,374,34x11,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Aman Cement Store,Jammu,Jammu,"Jammu , India",9419194422,,Done,32.656733,74.907367,Uaa@ 2 Aman Cement Store 05/01/2026,,,Free,Free,2026-01-05 00:00:00,,,672,56x12,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Aman Cement Store,Jammu,Jammu,"Jammu , India",9419194422,,Done,32.656873,74.907184,Uaa@ 3 Aman Cement Store 05/01/2026,,,Free,Free,2026-01-05 00:00:00,,,465,31x15,Bill no 145 Dealer WP (1).xlsx,Bill 145
+4,North,Aman Cement Store,Jammu,Jammu,"Jammu , India",9419194422,,Done,32.664508,74.879318,Uaa@ 4 Aman Cement Store 05/01/2026,,,Free,Free,2026-01-05 00:00:00,,,930,62x15,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Kunal Techspin P Ltd,Punjab,Dera Bassi,"Dera Bassi , Punjab",,,Done,30.587922,76.858898,Uaa@1 Kunal Techspin P Ltd  17/01/2026,,,Free,Free,2026-01-17 00:00:00,,,204,20x11 - 4x4,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Kunal Techspin P Ltd,Punjab,Dera Bassi,"Dera Bassi , Punjab",,,Done,30.58797,76.858892,Uaa@ 2 Kunal Techspin P Ltd  17/01/2026,,,Free,Free,2026-01-17 00:00:00,,,589,31x19,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Kunal Techspin P Ltd,Punjab,Dera Bassi,"Dera Bassi , Punjab",,,Done,30.587965,76.858905,Uaa@3 Kunal Techspin P Ltd  17/01/2026,,,Free,Free,2026-01-17 00:00:00,,,488,50x8 + 12x4 + 10x2x2,Bill no 145 Dealer WP (1).xlsx,Bill 145
+4,North,Kunal Techspin P Ltd,Punjab,Dera Bassi,"Dera Bassi , Punjab",,,Done,30.587965,76.858905,Uaa@4 Kunal Techspin P Ltd  17/01/2026,,,Free,Free,2026-01-17 00:00:00,,,200,25x8,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Baba Traders,"Mohali , Punjab","Garib Niwas , Mulanpur","Garib Niwas , Mulanpur , Mohali , Punjab",,,Done,30.800714,76.747192,Uaa @ 1  Baba Traders 30/12/2025,,,Free,Free,2025-12-30 00:00:00,,,480,48x10,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Baba Traders,"Mohali , Punjab","Garib Niwas , Mulanpur","Garib Niwas , Mulanpur , Mohali , Punjab",,,Done,30.800821,76.747363,Uaa @ 2  Baba Traders 30/12/2025,,,Free,Free,2025-12-30 00:00:00,,,783,75x9  +12x9,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Baba Traders,"Mohali , Punjab","Garib Niwas , Mulanpur","Garib Niwas , Mulanpur , Mohali , Punjab",,,Done,30.800601,76.747677,Uaa @ 3  Baba Traders 30/12/2025,,,Free,Free,2025-12-30 00:00:00,,,768,96x8,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Jai Laxmi Wear House,Punjab,Mohali,"Mohali , Punjab",,,Done,30.616065,76.697604,Uaa @ 1  Jai Laxmi Wear House 25/12/2025,,,Free,Free,2025-12-25 00:00:00,,,216,36x6,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Jai Laxmi Wear House,Punjab,Mohali,"Mohali , Punjab",,,Done,30.616249,76.69743,Uaa @ 2  Jai Laxmi Wear House 25/12/2025,,,Free,Free,2025-12-25 00:00:00,,,320,40x8,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Jai Laxmi Wear House,Punjab,Mohali,"Mohali , Punjab",,,Done,30.616133,76.697029,Uaa @ 3  Jai Laxmi Wear House 25/12/2025,,,Free,Free,2025-12-25 00:00:00,,,1198,98x11 + 12x10,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Gupta Iron Store,Punjab,Pathankot,"Pathankot , Punjab",,,Done,32.259997,75.663406,Uaa @ 1 Gupta Iron Store 04/01/2026,,,Free,Free,2026-01-04 00:00:00,,,903,38x11 + 40x8 + 11x5x3,Bill no 145 Dealer WP (1).xlsx,Bill 145
+2,North,Gupta Iron Store,Punjab,Pathankot,"Pathankot , Punjab",,,Done,32.265364,75.651109,Uaa @ 2 Gupta Iron Store 04/01/2026,,,Free,Free,2026-01-04 00:00:00,,,420,21x20,Bill no 145 Dealer WP (1).xlsx,Bill 145
+3,North,Gupta Iron Store,Punjab,Pathankot,"Pathankot , Punjab",,,Done,32.26687,75.651365,Uaa @ 3 Gupta Iron Store 04/01/2026,,,Free,Free,2026-01-04 00:00:00,,,162,18x9,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,North,Sarpal Sood &Sons,Punjab,Rajpura,"Rajpura  ,  Puinjab",,,Done,30.475584,76.586344,Uaa@ 1  Sarpal Sood &Sons 27/12/2025,,,Free,Free,2025-12-27 00:00:00,,,,,Bill no 145 Dealer WP (1).xlsx,Bill 145
+1,,JAGDAMBA STEEL,HARYANA,KAITHAL,KAITHAL ROAD CHIKA,9416658833,,,30.32558°,76.337136°,SHOP 1,,22.05.2025,,,,,3500,440,,JSW Complete Work 21.6.2025 (1).xlsx,Complete Work Jun25
+2,,SURESH MITTAL & SONS,HARYANA,AMBALA,SHAHZADPUR,9416668676,,,30.449806,77.036257,SHOP 1,,23.05.2025,,,,,3500,465,,JSW Complete Work 21.6.2025 (1).xlsx,Complete Work Jun25
+3,,SHIVA TRADING COMPANY,HARYANA,AMBALA,BARNALA,9813101083,,,30.394854°,76.809204°,SHOP 1,,28.05.2025,,,,,3500,204,,JSW Complete Work 21.6.2025 (1).xlsx,Complete Work Jun25
+4,,VARDHMAN STEELS,HARYANA,AMBALA,AMBALA CANTT,9215167249,,,30.329405,76.892966,SHOP 1,,30-05-2025,,,,,5000,493,,JSW Complete Work 21.6.2025 (1).xlsx,Complete Work Jun25
+5,,SHIV SHAKTI TRADERS,HARYANA,AMBALA,BARARA,,,,30.203536,77.03552,SHOP 1,,2025-05-06 00:00:00,,,,,3500,616,,JSW Complete Work 21.6.2025 (1).xlsx,Complete Work Jun25
+6,,GARG ENTERPRISES,HARYANA,AMBALA,SADHAURA,9802023525,,,30.380559,77.222245,SHOP 1,,2025-08-06 00:00:00,,,,,5000,476,,JSW Complete Work 21.6.2025 (1).xlsx,Complete Work Jun25
+7,,KAMAL ENTERPRISES,HARYANA,AMBALA,JAGADHRI,9053154000,,,30.160512,77.305057,WALL 1,,15-06-2025,,,,,5000,301,,JSW Complete Work 21.6.2025 (1).xlsx,Complete Work Jun25
+Grand Total,,,,,,,,,,,,,,,,,,29000,32336,,JSW Complete Work 21.6.2025 (1).xlsx,Complete Work Jun25
+1,North,Shri Madan Lal Associates LLP,HR,Karnal,"Behind Volkwagen Showroom, G.T. Rd, 
+Opp. Kamboohpura – Karnal",,,OK,29.628134,76.980958,BRANDHUT- 01/01,,,,,02.01.2026,,,780,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+2,North,"Shree Shyam Ji Building
+ Material Store",HR,Karnal,"Nigdhu, Nilokheri – Karnal",,,OK,29.8369,76.732263,BRANDHUT- 02/01,Shutter,,,,01.01.2026,,,588,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+3,North,Bansal Building Material Store,HR,Karnal,"Sonkar Road, Tarawari - Karnal",,,OK,29.79618,76.916048,BRANDHUT- 03/01,,,,,01.01.2026,,,1905.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+4,SE,Delhi Steel & Cement,HR,Gurugram,"Jal Vihar Colony, Sector – 46 – Gurugram",,,OK,28.456085,76.990089,BRANDHUT- 04/01,,,,,13.01.2026,,,2124,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+5,SE,Akshay Udyog,HR,Gurugram,Daultabad Industrial Area – Gurugram,,,,,,,,,,,,,,28,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+6,SE,Shree Shyam Steel,HR,Gurugram,Hemilton Court Road – Gurugram,,,OK,28.467161,77.087144,BRANDHUT- 06/01,,,,,17.01.2026,,,90,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+7,SE,Om Traders,HR,Gurugram,"Maruti Kunj, Near DPS School, Bhondsi – Gurugram",,,OK,28.364808,77.074337,BRANDHUT- 07/01,,,,,15.01.2026,,,760,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+8,SE,S.R. Enterprises,HR,Gurugram,"Carteripur Marg, Palam Vihar Extension – Gurugram",,,OK,28.497902,77.054885,BRANDHUT- 08/01,,,,,17.01.2026,,,518,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+9,SE,Vinay Building Material Supplier,HR,Gurugram,"Gohana – Meham Rd, Lakhan Majra – Gurugram",,,OK,29.04816,76.483393,BRANDHUT- 09/01,Shutter,,,,18.01.2026,,,1200,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+10,North,Ganapati Steel,HR,Jind,"Ghanta Ghar, Old Grain Market – Jind",,,OK,29.31109,76.314705,BRANDHUT- 10/01,,,,,19.01.2026,,,460,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+11,NE,Shakti Steel Traders,HR,Sonipat,"Sant Nagar, Sector – 6, Huda – Sonipat",,,OK,29.411207,76.964429,BRANDHUT – 01/01,,,,,04.01.2026,,,1364,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+12,NE,Sohan Trading Company,HR,Sonipat,"Sector – 7, Gohana – Sonipat",,,OK,29.13202,76.698312,BRANDHUT – 02/01,,,,,05.01.2026,,,1620,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+13,NE,Shree Shyam Building Material,HR,Sonipat,"Kharkhoda, Near Kitab Singh Hospital – Sonipat",,,OK,28.871006,76.921342,BRANDHUT – 03/01,,,,,06.01.2026,,,350,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+14,NE,C.H. Steel,HR,Sonipat,"Sankhol, Bahadurgarh – Jhajjar",,,OK,28.705146,76.905219,BRANDHUT - 04/01,,,,,06.01.2026,,,315,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+15,NE,Shree Bala Ji Iron Store,HR,Jhajjar,"Yadav Colony, Bahadurgarh - Jhajjar",,,OK,28.594426,76.659828,BRANDHUT -05\01,,,,,08..01.2026,,,544.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+16,NE,City Builder,HR,Rohtak,"Near Petrol Pump, Old Anaj Mandi – Rohtak",,,OK,28.923211,76.62412,BRANDHUT- 06/01,,,,,09.01.2026,,,66,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+17,NE,Naveen Trading Company,HR,Rohtak,Near Patrol Pamp old Anja Mandir – Rohtak,,,OK,28.885269,76.566734,BRANDHUT- 07/01,,,,,09.01.2026,,,750,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+18,NE,Shri Krishna Builders & Steel,HR,Rohtak,Oppste Siwach Sanjeevni Hospital - Rohtak,,,OK,28.916829,76.594048,BRANDHUT-08/01,,,,,10.01.2026,,,575,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+19,NE,Shri Shyam Enterprises,HR,Rohtak,"Bhagotipur- Plot No. 34,35 killa Near, Jio Patrol Pamp - Rohtak",,,OK,28.981088,76.526522,BRANDHUT- 09/01,,,,,11.01.2026,,,553,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+20,NE,Gupta Trading Company,HR,Rohtak,"Sampla, Garhi Mod - Rohtak",,,OK,28.765604,76.7640412,BRANDHUT- 10/01,,,,,12.01.2026,,,506,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+21,SE,Sharma Traders,HR,Gurugram,Farukh Nagar – Gurugram,,,OK,28.460686,76.833646,BRANDHUT – 11/01,,,,,13.01.2026,,,857.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+22,East,Krishna Steel,HR,Faridabad,"Opp. Lakhani Chowk, Main Road – Faridabad",,,OK,28.355762,77.29982,BRANDHUT – 12/01,Shutter,,,,16.01.2026,,,378,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+23,East,Delhi Steel,HR,Faridabad,"60 Fit Road, Sector – 23 – Faridabad",,,OK,28.35598,77.299867,BRANDHUT – 13/01,Shutter,,,,16.01.2026,,,1020,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+24,East,Preeti Tradelink Pvt. Ltd.,HR,Faridabad,"Kartik Vihar, Sector – 21C – Faridabad",,,OK,28.430721,77.305322,BRANDHUT – 14/01,Shutter,,,,17.01.2026,,,802.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+25,SE,Aggarwal Building Material Store,HR,Palwal,"Hodal Rural, Hodal – Palwal",,,OK,27.886764,77.374645,BRANDHUT – 15/01,Shutter,,,,19.01.2026,,,450,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+26,SE,Yadav Iron Store,HR,Rewari,Durga Colony – Rewari,,,OK,28.193976,76.635477,BRANDHUT -16/01,,,,,20.01.2026,,,501.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+27,South,Prashant Trading Company,HR,Mahendragarh,"Ateli Mandi, Khor – Mahendragarh",,,OK,28.106111,76.259813,BRANDHUT – 17/01,,,,,21.01.2026,,,288,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+28,South,Bansal Iron Store,HR,Mahendragarh,"Mahendragarh to Dadri Road, Kharkhara – Mahendragarh",,,OK,28.399587,76.131917,BRANDHUT – 18/01,,,,,22.02.2026,,,1326,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+29,South,Shree Shyam Trading Company,HR,Bhiwani,Bawani Khera – Bhiwani,,,OK,28.950369,76.045141,BRANDHUT – 19/01,,,,,23.01.2026,,,1083,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+30,West,Pal Cement & Steel Pvt. Ltd.,HR,Hisar,Mirzapurpur Road – Hisar,,,OK,29.171879,75.770744,BRANDHUT – 20/01,,,,,24.01.2026,,,324,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+31,West,Dharmveer Timber & Steel Traders,HR,Hisar,Barwala – Hisar,,,OK,29.357804,75.890218,BRANDHUT – 21/01,,,,,27.01.2026,,,1680,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+32,West,Shree Salasar Trading Company,HR,Hisar,Barwala – Hisar,,,OK,29.357864,75.89002,BRANDHUT – 22/01,,,,,27.01.2026,,,1743,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+33,North,Om Prakash Building Material,HR,Jind,Pilu Khera – Jind,,,OK,29.356408,76.491645,BRANDHUT – 23/01,Shutter,,,,28.01.2026,,,912,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+,,s,,,,,,OK,29.356641,76.491596,BRANDHUT – 23/02,,,,,28.01.2026,,,432,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+34,North,Naveen Kumar Pradeep Kumar,HR,Kaithal,Pundri – Kaithal,,,OK,29.770448,76.566881,BRANDHUT – 24/01,Shutter,,,,30.01.2026,,,1616,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+35,North,Shree Bala Ji Sanitary Store,HR,Kurukshetra,"Professor Colony, Pehowa – Kurukshetra",,,OK,29.989073,76.588795,BRANDHUT – 25/01,Shutter,,,,31.01.2026,,,227.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+36,North,Mahaveer Singh Store,HR,Kurukshetra,Pehowa – Kurukshetra,,,OK,29.981096,76.581177,BRANDHUT – 26/01,,,,,01.02.2026,,,1096.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+37,North,Kriti Steel,HR,Kurukshetra,Shahabad – Kurukshetra,,,OK,30.226202,76.913243,BRANDHUT – 27/01,,,,,03.02.2026,,,484.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+38,North,Shree Shiv Shakti Sales,HR,Kurukshetra,Wazidpur – Kurukshetra,,,OK,30.227636,76.911673,BRANDHUT – 28/01,,,,,03.02.2026,,,665,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+39,North,Ganapati Sanitary Building Material Store,HR,Kurukshetra,"Shahabad, Markanda – Kurukshetra",,,OK,30.16427,76.866482,BRANDHUT – 29/01,,,,,04.02.2026,,,522,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+40,North,Aggarwal Building Material,HR,Ambala,Dosadaka – Ambala,,,OK,30.255995,77.0771538,BRANDHUT – 30/01,,,,,05.02.2026,,,1098,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+41,North,Hariram Traders,HR,Ambala,Durga Nagar – Ambala,,,OK,30.357858,76.769652,BRANDHUT – 31/01,,,,,05.02.2026,,,907.25,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+42,North,Saini Cement & Building Material,HR,Panchkula,Raipur Rani – Panchkula,,,OK,30.579084,77.015039,BRANDHUT – 32/01,Shutter,,,,06.02.2026,,,193.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+43,North,Jai Steel,HR,Yamuna Nagar,"Saharanpur Rd, Near Aggresein Chowk – Yamunanagar",,,OK,30.144259,77.302457,BRANDHUT – 01/01,Shutter,,,,19.02.2026,,,1280,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+44,North,Ansh Trading Comapny,HR,Ambala,"Mulana St, Dhin – Ambala",,,OK,30.256195,77.07207,BRANDHUT – 02/01,,,,,21.02.26,,,961,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+45,North,M.R. Traders,HR,Fatehabad,"Industria Area, Jagjivan Pura – Fatehabad",,,OK,29.504091,75.463963,BRANDHUT – 03/01,,,,,23.02.26,,,525,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+46,North,Shree Bala JI Traders,HR,Jind,"New Shyam Nagar, Shant Nagar – Jind",,,OK,29.324218,76.299235,BRANDHUT – 04/01,Shutter,,,,25.02.26,,,675,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+47,North,Ganpat Rai & Sons,HR,Kurukshetra,"Model Town, Pehowa – Kurukshetra",,,OK,29.985929,76.582753,BRANDHUT – 05/01,,,,,27.02.26,,,435,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - HR
+1,North,Khandelwal Steels,DL,New Delhi,"Qutub Minar, Sainik Farm – Delhi",,,OK,28.5116,77.184538,BRANDHUT – 01/01,,,,,06.02.2026,,,540,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - Delhi
+2,North,Shree Shyam Balaji Steel,DL,New Delhi,Bharthal – Delhi,,,OK,28.543545,77.046355,BRANDHUT – 02/01,,,,,07.02.2026,,,420,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - Delhi
+3,North,Bansal Steel,DL,New Delhi,"40 Feet Rd, Vijay Vihar, Rohini – Delhi",,,OK,28.707729,77.09534,BRANDHUT – 03/01,Shutter,,,,08.02.2026,,,496,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - Delhi
+4,North,Raju Steel Company,DL,New Delhi,"Loha Mandi , Industrial Aea, Naraina",,,OK,28.637847,77.141711,BRANDHUT – 04/01,Shutter,,,,09.02.2026,,,214.5,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - Delhi
+5,North,Hindustan Steel,DL,New Delhi,"Najafgarh Dhansa Rd, Rawta More",,,OK,28.600051,76.91472,BRANDHUT – 05/01,,,,,10.02.2026,,,336,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - Delhi
+6,North,Shivam Steel,DL,New Delhi,"New Gopal Nagar, Najafgarh – Delhi",,,OK,28.602527,76.970048,BRANDHUT – 06/01,,,,,11.02.2026,,,290,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - Delhi
+7,North,Baba Haridas Building Material,DL,New Delhi,"Janta Vihar Colony, Haridas Enclave",,,OK,28.647585,76.958495,BRANDHUT – 07/01,,,,,11.02.2026,,,138.75,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - Delhi
+8,North,Rajdhani Enterprises,DL,Delhi,"Aam Bagh, Mehrauli – Delhi",,,OK,28.511032,77.177195,BRANDHUT – 01/01,,,,,01.03.2026,,,289,,JSW_Dealer WP_Final (1) (1).xlsx,Dealer WP - Delhi
+,,M/s Laxmi Steel,,,,,,,,,1,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Sai Goyal Trading Company,,,,,,,,,2,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Shree Bala Ji Trading Company,,,,,,,,,3,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Amroha,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Jain  Steel House,,,,,,,,,4,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Etawah,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Raj Narayan Salse Corporation,,,,,,,,,5,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Tundla,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Sandeep & Company,,,,,,,,,6,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Noida / Ghaziabad,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Bansal Steel Shop,,,,,,,,,7,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Shashi Steel Corporation,,,,,,,,,8,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Core Commerce,,,,,,,,,9,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Pratham Steel,,,,,,,,,10,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Surya Steel,,,,,,,,,11,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Optrix,,,,,,,,,12,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Kanpur,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Nisha Steel,,,,,,,,,13,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Lucknow,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Shiva Steel,,,,,,,,,14,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Tara Chand Steel,,,,,,,,,15,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Ankit Buildtech Construction Pvt.Ltd,,,,,,,,,16,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Mathura,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Jai Durga Iron & Steel Company,,,,,,,,,17,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Ballia,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Gayatri Traders,,,,,,,,,18,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Arihant Traders,,,,,,,,,19,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Shree Ganpati Traders,,,,,,,,,20,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Prayagraj,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Allahabad Iron & Steel Co.,,,,,,,,,21,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,Sultanpur,,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Raju Traders,,,,,,,,,22,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,"Bhind,Morena,Gwalior(MP)",,,,,,,,,,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Agrawal Iron,,,,,,,,,23,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Pathak Enterprises,,,,,,,,,24,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Veeru Fabrication & Building Material,,,,,,,,,25,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Pulak Steel,,,,,,,,,26,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Anjali Trading Co.,,,,,,,,,27,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Kushwaha Traders,,,,,,,,,28,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Salika Enterprises,,,,,,,,,29,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Vinay Steels,,,,,,,,,30,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Shree Siddhi Traders,,,,,,,,,31,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+,,M/s Munna Enterprises,,,,,,,,,32,,,,,,,,,,JSW One Tmt Dealer Wall & Shop Painting 1 March 2026 (2) (1).xlsx,Dealer WP Mar26
+1,North,SHREE RAM ENTERPRISES,PB,Sangrur,,"7973946702, 9463066472",,Done,30.068361,75.988657,Uaa@1Shree Ram Enterprises 03/06/2025,,,Free,Free,2025-06-03 00:00:00,,5000,1204,"52x15, 28x8, 10x5 (4pcs)",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+1,North,SHREE RAM ENTERPRISES,PB,Sangrur,,"7973946702, 9463066472",,Done,30.064174,75.992519,Uaa@2Shree Ram Enterprises 03/06/2025,,,Free,Free,2025-06-03 00:00:00,,,375,25x15,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+1,North,SHREE RAM ENTERPRISES,PB,Sangrur,,"7973946702, 9463066472",,Done,30.060992,75.990798,Uaa@3Shree Ram Enterprises 02/06/2025,,,Free,Free,2025-06-02 00:00:00,,,1665,"50x16, 35x17,90x3",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+1,North,SHREE RAM ENTERPRISES,PB,Sangrur,,"7973946702, 9463066472",,Done,30.062572,75.991038,Uaa@4Shree Ram Enterprises 03/06/2025,,,Free,Free,2025-06-03 00:00:00,,,1800,90x20,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+1,North,SHREE RAM ENTERPRISES,PB,Sangrur,,"7973946702, 9463066472",,Done,30.062003,75.99454,Uaa@05shree Ram Enterprises 03/06/2025,,,Free,Free,2025-06-03 00:00:00,,,2130,"48x20, 65x18",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+1,North,SHREE RAM ENTERPRISES,PB,Sangrur,,"7973946702, 9463066472",,Done,30.06173,75.994672,Uaa@6ShreeRam Enterprises 03/06/2025,,,Free,Free,2025-06-03 00:00:00,,,2130,"48x20, 65x18",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+1,North,SHREE RAM ENTERPRISES,PB,Sangrur,,"7973946702, 9463066472",,Done,30.062238,75.99423,Uaa@7ShreeRamEnterprises28/05/2025,,,Free,Free,2025-05-28 00:00:00,,,1200,75x16,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+2,North,Bitla steel sales corporation,PB,Ludhiana,,9814925347,,Done,30.894552,75.858478,Uaa@1Bitla steel sales corporation21/05/2025,,,Free,Free,2025-05-21 00:00:00,,5000,642,"49x10
+11x4
+27x4",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+2,North,Bitla steel sales corporation,PB,Ludhiana,,9814925347,,Done,30.894558,75.858851,Uaa@2Bitla steel sales corporation21/05/2025,,,Free,Free,2025-05-21 00:00:00,,,230,23x10,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+2,North,Bitla steel sales corporation,PB,Ludhiana,,9814925347,,Done,30.83049,75.793506,Uaa@3Bitla steel sales corporation26/05/2025,,,Free,Free,2025-05-26 00:00:00,,,3231,"69x32
+31x33",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+3,North,JAMBOO TRADERS,Jammu,Jammu,,8527968606,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+4,North,RAKESH BUILDING MATERIAL,Jammu,Jammu,,9906733757,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+5,North,RAJ TRADING COMPANY,Jammu,UDHAMPUR,,9419672950,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+6,North,PARDEEP CEMENT STORE,Jammu,Jammu,,9419106618,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+7,North,SUNRISE HARDWARE STORE KISHTWAR,Jammu,KISHTWAR,,9796885949,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+8,North,M/S CHINAR ENTERPRISES,Jammu,RAJOURI,,9906100278,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+9,North,ASHWANI HARDWARE STORE,Jammu,SAMBA,,8717011114,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+10,North,JAMMU METALS,Jammu,Jammu,,9469309998,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+11,North,EVEREST COMMUNICATION,Jammu,UDHAMPUR,,9419190788,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+12,North,REHAN CEMENT AGENCY,Jammu,KATHUA,,9906099461,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+13,North,Indu steel ways,Jammu,JAMMU,,9419155905,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+14,North,Raju sales corporation,Jammu,JAMMU,,9419123965,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+15,North,NEW S.K TRADERS,Jammu,JAMMU,,8899713472,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+16,North,Sapcon steel,Jammu,JAMMU,,9906099612,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+17,North,SHYAM STEELS,,BARNALA,,9815174008,,Pending,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+18,North,SHRI BALA JI IRON STORE,PB,"NEAR INDIAN OIL PUMP , MALOUT ROAD ABOHAR",,8360183542,,,,,,,,Free,Free,,,5000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+19,North,KHERA  AGENCIES,PB,SRI MUKTSAR SAHIB,,9530509546,,Done,30.47715,74.509321,Uaa@1KHERA  AGENCIES24/05/2025,,,Free,Free,2025-05-24 00:00:00,,5000,740,"17x10, 38x15",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+19,North,KHERA  AGENCIES,PB,SRI MUKTSAR SAHIB,,9530509546,,Done,30.477246,74.51037,Uaa@2KHERA  AGENCIES24/05/2025,,,Free,Free,2025-05-24 00:00:00,,,490,70x7,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+19,North,KHERA  AGENCIES,PB,SRI MUKTSAR SAHIB,,9530509546,,Done,30.477245,74.510308,Uaa@3KHERA  AGENCIES25/05/2025,,,Free,Free,2025-05-25 00:00:00,,,408,68x6,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+19,North,KHERA  AGENCIES,PB,SRI MUKTSAR SAHIB,,9530509546,,Done,30.477373,74.51214,Uaa@4KHERA  AGENCIES26/05/2025,,,Free,Free,2025-05-26 00:00:00,,,1536,128x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+19,North,KHERA  AGENCIES,PB,SRI MUKTSAR SAHIB,,9530509546,,Done,30.477966,74.513948,Uaa@5KHERA  AGENCIES26/05/2025,,,Free,Free,2025-05-26 00:00:00,,,400,20x20,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+20,North,Pappu Cement Store,PB,FARIDKOT,,9780340345,,Done,30.707436,74.587288,Uaa@1Pappu cement store22/05/2025,,,Free,Free,2025-05-22 00:00:00,,5000,320,20x16,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+20,North,Pappu Cement Store,PB,FARIDKOT,,9780340345,,Done,30.707364,74.587975,Uaa@2Pappu cement store 22/05/2025,,,Free,Free,2025-05-22 00:00:00,,,580,"20x6, 22x10, 30x10",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+20,North,Pappu Cement Store,PB,FARIDKOT,,,,Done,30.707364,74.587975,uaa@3pappu cement store22/05/2025,,,Free,Free,2025-05-22 00:00:00,,,180,15x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+20,North,Pappu Cement Store,PB,FARIDKOT,,9780340345,,Done,30.7074,74.587081,Uaa@4Pappucement store23/05/2025,,,Free,Free,23/052025,,,1550,"25x30, 20x40",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+20,North,Pappu Cement Store,PB,FARIDKOT,,9780340345,,Done,30.706873,74..587077,uaa@5 Pappu cement store24/05/2025,,,Free,Free,2025-05-24 00:00:00,,,96,8x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+21,North,Kartar singh,PB,Amritsar,,,,Done,31.630983,74.949434,Uaa@1 KartarSingh01/04/2025,,,Free,Free,2025-04-01 00:00:00,,5000,390,30x13,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+21,North,Kartar singh,PB,Amritsar,,,,Done,31.63261,74.949473,Uaa@2KartarSingh01/04/2025,,,Free,Free,01/042025,,,360,20x18,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+21,North,Kartar singh,PB,Amritsar,,,,Done,31.630901,74.949272,Uaa@3KartarSing01/04/2025,,,Free,Free,2025-04-01 00:00:00,,,504,42x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+21,North,Kartar singh,PB,Amritsar,,,,Done,31.630936,74.949284,Uaa@4KartarSingh01/04/2025,,,Free,Free,2025-04-01 00:00:00,,,288,24x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+22,North,Arun Gupta,PB,Tara tarn,,,,Done,31.459025,74.939308,Uaa@1Arungupta28/03/2025,,,Free,Free,2025-03-28 00:00:00,,5000,780,"30x20
+45x4",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+22,North,Arun Gupta,PB,Tara tarn,,,,Done,31.459026,74.939358,Uaa@2Arungupta20/03/2025,,,Free,Free,2025-03-20 00:00:00,,,1348,"105x12
+8x11",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+22,North,Arun Gupta,PB,Tara tarn,,,,Done,31.459175,74.939412,Uaa@3Arungupta21/03/2025,,,Free,Free,2025-03-21 00:00:00,,,1138,"105x10
+8x11",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+22,North,Arun Gupta,PB,Tara tarn,,,,Done,31.45918,74.939602,Uaa@4Arungupta21/03/2025,,,Free,Free,2025-03-21 00:00:00,,,1050,105x10,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+22,North,Arun Gupta,PB,Tara tarn,,,,Done,31.459048,74.939345,Uaa@5Arungupta25/03/2025,,,Free,Free,2025-03-25 00:00:00,,,1764,98x18,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+22,North,Arun Gupta,PB,Tara tarn,,,,Done,31.459273,74.93922,Uaa@6Arungupta22/03/2025,,,Free,Free,2025-03-22 00:00:00,,,510,34x15,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+22,North,Arun Gupta,PB,Tara tarn,,,,Done,31.459282,74.939625,Uaa@7Arungupta23/03/2025,,,Free,Free,2025-03-23 00:00:00,,,780,65x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+22,North,Arun Gupta,PB,Tara tarn,,,,Done,31.459008,74.93939,Uaa@8Arungupta28/03/2025,,,Free,Free,2025-03-28 00:00:00,,,2967,"45x19
+80x19
+37x16",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+23,North,Shiv Trading,PB,Chherata,,,,Done,31.627049,74.786508,Uaa@1ShivTrading01/04/2025,,,Free,Free,2025-04-01 00:00:00,,5000,1218,"29x33
+29x4
+29x5",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+23,North,Shiv Trading,PB,Chherata,,,,Done,31.627282,74.786567,Uaa@2ShivTrading30/03/2025,,,,,2025-03-30 00:00:00,,,504,42x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+23,North,Shiv Trading,PB,Chherata,,,,Done,31.627143,74.786523,Uaa@3ShivTrading30/03/2025,,,,,2025-03-30 00:00:00,,,504,42x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+23,North,Shiv Trading,PB,Chherata,,,,Done,31.627168,74.786577,Uaa@4ShivTrading30/03/2025,,,,,2025-03-30 00:00:00,,,504,42x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+23,North,Shiv Trading,PB,Chherata,,,,Done,31.627148,74.786458,Uaa@5ShivTrading29/03/2025,,,,,2025-03-29 00:00:00,,,504,42x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+23,North,Shiv Trading,PB,Chherata,,,,Done,31.627288,74.786336,Uaa@6ShivTrading31/03/2025,,,,,2025-03-31 00:00:00,,,1880,"60x26
+32x10",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+23,North,Shiv Trading,PB,Chherata,,,,Done,31.627201,74.786598,Uaa@7ShivTrading30/03/2025,,,,,,,,962,37x26,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+24,North,Sumit Chopara,PB,Kothli,,,,Done,30.747723,76.686442,Uaa@1Sumit Chopara 13/05/2025,,,Free,Free,,,5000,671,61x11,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+24,North,Sumit Chopara,PB,Kothli,,,,Done,31.281535,75.652459,Uaa@2Sumit Chopara 13/05/2025,,,,,,,,604.5,"39x12
+39x3.5",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+24,North,Sumit Chopara,PB,Kothli,,,,Done,30.266024,75.223457,Uaa@3Sumit Chopara 13/05/2025,,,,,,,,770,77x10,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+24,North,Sumit Chopara,PB,Kothli,,,,Done,30.271637,74.001628,Uaa@4Sumit Chopara 13/05/2025,,,,,,,,852,"61x12
+10x12",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+25,North,Guru Amar dass,PB,Rayiea,,,,Done,31.533078,75.254656,Uaa@1Guru Amardass15/03/2025,,,Free,Free,2025-03-15 00:00:00,,5000,1020,68x15,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+25,North,Guru Amar dass,PB,Rayiea,,,,Done,31.533002,75.254694,Uaa@2Guru Amardass18/03/2025,,,,,2025-03-18 00:00:00,,,264,22x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+25,North,Guru Amar dass,PB,Rayiea,,,,Done,31.532993,75.254707,Uaa@3Guru Amardass18/03/2025,,,,,2025-03-18 00:00:00,,,264,22x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+25,North,Guru Amar dass,PB,Rayiea,,,,Done,31.533033,75.254596,Uaa@4Guru Amardass18/03/2025,,,,,2025-03-18 00:00:00,,,1140,95x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+25,North,Guru Amar dass,PB,Rayiea,,,,Done,31.532811,75.254532,Uaa@5Guru Amardass18/03/2025,,,,,2025-03-18 00:00:00,,,1794,"66x24
+15x14",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+25,North,Guru Amar dass,PB,Rayiea,,,,Done,31.532811,75.254532,Uaa@6Guru Amardass18/03/2025,,,,,2025-03-18 00:00:00,,,216,18x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+25,North,Guru Amar dass,PB,Rayiea,,,,Done,31.539989,75.237444,Uaa@7Guru Amardass15/03/2025,,,,,2025-03-15 00:00:00,,,820,"32x2
+39x14
+21x10",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+25,North,Guru Amar dass,PB,Rayiea,,,,Done,31.538398,75.254575,Uaa@8Guru Amardass18/03/2025,,,,,2025-03-18 00:00:00,,,352,22x16,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+26,North,Shree balla Ji,PB,Zirakpur,,,,Done,30.646619,76.809059,Uaa@1Shree bala Ji 10/06/2025,,,Free,Free,2025-06-10 00:00:00,,,674,"43X12
+43X2
+18X4",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+26,North,Shree balla Ji,PB,Zirakpur,,,,Done,30.646457,76.809364,Uaa@2Shree bala Ji 11/06/2025,,,Free,Free,2025-06-11 00:00:00,,,872,"30X8 - 2PCS
+28X14",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+26,North,Shree balla Ji,PB,Zirakpur,,,,Done,30.646641,76.809047,Uaa@3Shree bala Ji 10/06/2025,,,Free,Free,2025-06-10 00:00:00,,,768,96X8,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+26,North,Shree balla Ji,PB,Zirakpur,,,,Done,30.646688,76.809063,Uaa@4Shree bala Ji 10/06/2025,,,Free,Free,2025-06-10 00:00:00,,,428,"46X8
+5X6-2PCS",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+26,North,Shree balla Ji,PB,Zirakpur,,,,Done,30.646581,76.80929,Uaa@5Shree bala Ji 11/06/2025,,,Free,Free,2025-06-11 00:00:00,,,99,9X11,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+26,North,Shree balla Ji,PB,Zirakpur,,,,Done,30.630853,76.797293,Uaa@6 Shree bala Ji 11/06/2025,,,Free,Free,2025-06-11 00:00:00,,,1512,216X7,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+26,North,Shree balla Ji,PB,Zirakpur,,,,Done,30.654538,76.748199,Uaa@7 Shree bala Ji 11/06/2025,,,Free,Free,2025-06-11 00:00:00,,5000,618,"66X8
+15X6",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+26,North,Shree balla Ji,PB,Zirakpur,,,,Done,30.654556,76.747942,Uaa@8 Shree bala Ji 11/06/2025,,,Free,Free,2025-06-11 00:00:00,,,847,77X11,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+27,North,Ankit Tradex India Pvt Ltd,Gujarat,Kachchh,,9879517144,,Pending,,,,,,Free,Free,,,60000,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+28,North,Pappu Cement store,PB,Sadiq (Faridkot road near chowk ),,9988981804,,Pending,,,,,,Free,Free,,,,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.266024,75.223339,Uaa@1Aggarwal Traders 01/06/2025,,,Free,Free,2025-06-01 00:00:00,,,280,28x10,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.266104,75.223435,Uaa@2Aggarwal Traders 02/06/2025,,,Free,Free,2025-06-02 00:00:00,,,304,16x19,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.266038,75.223457,Uaa@3Aggarwal Traders 02/06/2025,,,Free,Free,2025-06-02 00:00:00,,,304,16x19,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.26594,75.223375,Uaa@4Aggarwal Traders 03/06/2025,,,Free,Free,2025-06-03 00:00:00,,,264,"15x16
+12x1 2pcs",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.265898,75.223554,Uaa@5Aggarwal Traders 19/06/2025,,,Free,Free,2025-06-19 00:00:00,,,250,25x10,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.266024,75.223457,Uaa@6Aggarwal Traders 07/06/2025,,,Free,Free,07/06/2025,,,711,79x9,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.184982,75.106361,Uaa@7Aggarwal Traders14/06/2025,,,Free,Free,2025-06-14 00:00:00,,,957,87x11,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.24069,75.159945,Uaa@8Aggarwal Traders14/06/2025,,,Free,Free,2025-06-14 00:00:00,,,1095,73x15,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.288975,75.209003,Uaa@9Aggarwal Traders15/06/2025,,,Free,Free,2025-06-15 00:00:00,,,616,77x8,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.289353,75.320148,Uaa@10Aggarwal Traders17/06/2025,,,Free,Free,2025-06-17 00:00:00,,,540,45x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.297447,75.293167,Uaa@11Aggarwal Traders18/06/2025,,,Free,Free,2025-06-18 00:00:00,,,689,"66x9
+19x5",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.274442,75.275115,Uaa@12Aggarwal Traders18/06/2025,,,Free,Free,2025-06-18 00:00:00,,,756,63x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+29,North,Aggarwal Traders,PB,Bathinda road under fly over Rampura phul  PIN code:-151103,,"9463417988, 9876860136",,Done,30.250463,75.281542,Uaa@13Aggarwal Traders18/06/2025,,,Free,Free,2025-06-18 00:00:00,,,980,70x14,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+30,North,Daya ram Payre Lal,PB,"Bazar no. 9 Gandhi Chowk, Abohar",,9815740086,,Done,30.140596,74.225235,Uaa@1Daya ram Payre Lal02/06/2025,,,Free,Free,2025-06-02 00:00:00,,,2268,"77x21
+31x21",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+30,North,Daya ram Payre Lal,PB,"Bazar no. 9 Gandhi Chowk, Abohar",,9815740086,,Done,30.14183,74.235536,Uaa@2Daya ram Payre Lal02/06/2025,,,Free,Free,2025-06-02 00:00:00,,,1224,68x18,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+30,North,Daya ram Payre Lal,PB,"Bazar no. 9 Gandhi Chowk, Abohar",,9815740086,,Done,30.141724,74.236192,Uaa@3Daya ram Payre Lal02/06/2025,,,Free,Free,2025-06-02 00:00:00,,,270,15x18,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+30,North,Daya ram Payre Lal,PB,"Bazar no. 9 Gandhi Chowk, Abohar",,9815740086,,Done,30.305604,74.092925,Uaa@4Daya ram Payre Lal03/06/2025,,,Free,Free,2025-06-03 00:00:00,,,595,85x7,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+31,North,Jawahar Lal Surinder pal,PB,"Raman mandi near canara bank, PIN code:-151301",,"9417079627, 9417406464",,Done,29.937248,74.944305,Uaa@1Jawahar Lal Surinder pal 17/06/2025,,,Free,Free,2025-06-17 00:00:00,,,2276,"118x16
+108x3
+16x2 2pcs",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+31,North,Jawahar Lal Surinder pal,PB,"Raman mandi near canara bank, PIN code:-151301",,"9417079627, 9417406464",,Done,29.969272,74.913403,Uaa@2Jawahar Lal Surinder pal 18/06/2025,,,Free,Free,2025-06-18 00:00:00,,,492,41x12,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+31,North,Jawahar Lal Surinder pal,PB,"Raman mandi near canara bank, PIN code:-151301",,"9417079627, 9417406464",,Done,29.947038,74.933303,Uaa@3Jawahar Lal Surinder pal 18/06/2025,,,Free,Free,2025-06-18 00:00:00,,,3011,"137x17
+62x11",PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+32,North,Shyam steels Barnala,PB,Shekha Road barnala  Pin Code-148101,,98151-74008,,Pending,,,,,,Free,Free,,,,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+33,North,khera Agencies,PB,"Railway Crossing,Near Flyover Sri Muktsar Sahib",,"9530509546, 9876301633",,Pending,,,,,,Free,Free,,,,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+34,North,Ruldu Ram & Co.,PB,"Dane wala chowk,Dabwali road malout",,7009242562,,Done,30.173258,74.51263,Uaa@01Ruldu Ram & Co.29/05/2025,,,Free,Free,2025-05-29 00:00:00,,,1394,82x17,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+34,North,Ruldu Ram & Co.,PB,"Dane wala chowk,Dabwali road malout",,7009242562,,Done,30.172978,74.512783,Uaa@02Ruldu Ram & Co.29/05/2025,,,Free,Free,2025-05-29 00:00:00,,,1105,65x17,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+34,North,Ruldu Ram & Co.,PB,"Dane wala chowk,Dabwali road malout",,7009242562,,Done,30.173202,74.512635,Uaa@03Ruldu Ram & Co.29/05/2025,,,Free,Free,2025-05-29 00:00:00,,,1394,82x17,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+34,North,Ruldu Ram & Co.,PB,"Dane wala chowk,Dabwali road malout",,7009242562,,Done,30.172005,74.511605,Uaa@04Ruldu Ram & Co. 29/05/2025,,,Free,Free,2025-05-29 00:00:00,,,756,42X18,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+34,North,Ruldu Ram & Co.,PB,"Dane wala chowk,Dabwali road malout",,7009242562,,Done,30.172631,74.512626,Uaa@5Ruldu Ram & Co.31/05/2025,,,Free,Free,2025-05-31 00:00:00,,,1476,82X18,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+34,North,Ruldu Ram & Co.,PB,"Dane wala chowk,Dabwali road malout",,7009242562,,Done,30.172693,74.51248,Uaa@6Ruldu Ram & Co.31/05/2025,,,Free,Free,2025-05-31 00:00:00,,,1314,73X18,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+35,North,Aggarwal Enterprises,PB,Fazilka (Abohar road near city garden),,9653595000,,Pending,,,,,,Free,Free,,,,,,PB & Jammu Wall painting (1) (2).xlsx,PB & Jammu WP
+1,North,M/S GAURI MAL RAGHUNANDAN PRASAD AND SONS,UP,Bareilly,Shastri Nagar,8477889437.0,Bareilly,,28.38607',79.418984',Wall No.4(13x14),,21.05.2025,,,,,4000,182,,UP WP (3).xlsx,UP WP v3
+2,North,SHAILSHREE METALS,UP,Bareilly,,8477889437.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+3,North,M/S K S ENTERPRISES,UP,Bareilly,Rameshwar Dham Colony,8755336189.0,Bareilly,,28.307105',79.409498',"Front(84x18,Side16x17.5)",,24.05.2025,,,,,4000,1792,,UP WP (3).xlsx,UP WP v3
+4,North,SK IRON STORE,UP,Bareilly,Baheti Deha Jangir Kargana,9837163664.0,Bareilly,,28.324208',79.387563',Wall ( 35.5x12),,30.05.2025,,,,,4000,426,,UP WP (3).xlsx,UP WP v3
+5,North,M/S SINGH TRADERS,UP,Prayagraj,Nani Taluka,77248 60024,Prayagraj,,25.391726',81.870962',Plusmedia Wall No.01(29x13.5)-6x3,,21.05.2025,,,,,4000,373.5,,UP WP (3).xlsx,UP WP v3
+6,North,Shyama Construction,UP,VARANASI,,9415302508.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+,North,Mishra Building Solutions,UP,Varanasi,,7007599046.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+,North,Keshav Steel,UP,Varanasi,Dafi Nh19,9415205156.0,Varanasi,,25.246986',82.976283',Wall (25x34 Gate 20x8x2 Piler 16x11Less 4x4),,25.05.2025,,,,,4000,1330,,UP WP (3).xlsx,UP WP v3
+,North,Sujata Associates,UP,VARANASI,Godhana,9792011112.0,Varanasi,,25.252641',83.138196',Wall (47x13.5),,31.05.2025,,,,,4000,634.5,,UP WP (3).xlsx,UP WP v3
+7,North,SINGH BROTHERS ENGINEERING,UP,VARANASI,Sarai Dangari Kala,9838808962.0,Varanasi,,25.23044',82.981649',Pm.Wall (36x15),,21.05.2025,,,,,4000,540,,UP WP (3).xlsx,UP WP v3
+8,North,Abhishek enterprises,UP,Bhadoi,Gopiganj,9838859705.0,Bhadohi,,25.288843',82.433462',"Pm Wall1(10x9,6x4)",,28.05.2025,,,,,4000,114,,UP WP (3).xlsx,UP WP v3
+9,North,SINGHAL IRON AND HOUSING SOLUTIONS,UP,MORADABAD,Mangupura,9899000278.0,New Moradabad,,28.827678',78.703187',Pm Wall No.1(58x14.5),,22.05.2025,,,,,4000,841,,UP WP (3).xlsx,UP WP v3
+10,North,Gopal iron store,UP,MORADABAD,,9837032980.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+11,North,Pooja Hardware & Steel Corporation,UP,NAJIBABBAD,,9917000016.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+12,North,J.P Steel & Sons,UP,Meeerut,,9837020508.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+13,North,MAMVEER TRADERS,UP,Meerut,Anand Vihar Colony,9927010251.0,Meerut,,28.977963',77.641623',Wall 10(51x16),,27.05.2025,,,,,4000,816,,UP WP (3).xlsx,UP WP v3
+,North,Mittal Traderes,UP,Meerut,Ekta Nagar Nr. Green City,7017141780.0,Meerut,,29.034535',77.713516',Wall18 (60x9),,31.05.2025,,,,,4000,540,,UP WP (3).xlsx,UP WP v3
+14,North,NANDNI TRADERS,UP,Gangoh,Bypass Road,9412532265.0,Gangoh,,29.781238',77.271342',Wall 20(30x8),,03.06.2025,,,,,4000,240,,UP WP (3).xlsx,UP WP v3
+15,North,AMAR CEMENT  STORE,UP,SAHARANPUR,,9758026530.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+16,North,Steel centre,UP,Ghazipur,Bansibazar,9415862470.0,Ghazipur,,25.577771',83.55254',Satar ( 22x10),,24.05.2025,,,,,4000,220,,UP WP (3).xlsx,UP WP v3
+17,North,Keshari bhandar,UP,mirzapur,,9580127502.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+18,North,Ramesh Enterprises,UP,PYRAGRAJ,Vishnapuri Colony,8303001995.0,Prayagraj,,25.453113',81.751276,Wall 12 ( 70x16),,24.05.2025,,,,,4000,1120,,UP WP (3).xlsx,UP WP v3
+19,North,M/S ADARSH AGARHARI TRADERS,UP,MAHRAJGANJ,,9794110105.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+20,North,MAHAVIR TRADERS,UP,GORAKHPUR,,,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+21,North,JAISWAL TRADERS,UP,BALLIA,Rasra,9435647897.0,Ballia,,25.860843',83.849094',"Pm Shop (12x8,.12x10.5,12x5.5,11x4)",,21.05.2025,,,,,4000,332,,UP WP (3).xlsx,UP WP v3
+22,North,RKV ENTERPRISES,UP,DEORIA,,9580050007.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+23,North,AYAN BUIDING MATERIAL AND SUPPLIER,UP,KUSHINAGAR,,9565417444.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+24,North,BAJRANG TRADERS,UP,MAHRAJGANJ,,,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+25,North,SAMIKSHA ND SIDHI ENTERPRISES,UP,MAHRAJGANJ,Paniyara Road,9451213660.0,Maharajganj,,26.971735',83.590413',Wall (95x21),,05.06.2025,,,,,4000,1995,,UP WP (3).xlsx,UP WP v3
+26,North,TANUSH IRON STORE,UP,AZAMGARH,,,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+27,North,RIKHAI LAL BINDESWARI PRASAD,UP,AZAMGARH,,,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+28,North,SUKLA JI TRADERS,UP,AZAMGARH,,7007483433.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+29,North,KAUSODHAN TRADERS,UP,MAHRAJGANJ,,,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+30,North,SHREE AMBAY TRADERS,UP,DEORIA,,9415827792.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+31,North,MAA DURGA TRADERS,UP,MAHRAJGANJ,,,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+32,North,GARG AND ASSOCIATE,UP,GORAKHPUR,Deoria Rd Khorabar,,Gorakhpur,,26.720967',83.43764',Wall (50x14.5),,28.05.2025,,,,,4000,725,,UP WP (3).xlsx,UP WP v3
+33,North,M/S VAISHNAVI TRADING CORPORATION,UP,Lucknow,,9415755978.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+34,North,M/S PANDEY TRADING COMPANY,UP,Gonda,,9140988843.0,,,,,,,,,,,,4000,,,UP WP (3).xlsx,UP WP v3
+1,North,M/S GAURI MAL RAGHUNANDAN PRASAD AND SONS,UP,Bareilly,Shastri Nagar,8477889437.0,Bareilly,,28.38607',79.418984',Wall No.4(13x14),,21.05.2025,,,,,4000,182,,UP WP (4).xlsx,UP WP v4
+2,North,SHAILSHREE METALS,UP,Bareilly,Prasakhera,8477889437.0,Bareilly,,28.432261',79.349196,Wall (106x7),,12.06.2025,,,,,4000,742,,UP WP (4).xlsx,UP WP v4
+3,North,M/S K S ENTERPRISES,UP,Bareilly,Rameshwar Dham Colony,8755336189.0,Bareilly,,28.307105',79.409498',"Front(84x18,Side16x17.5)",,24.05.2025,,,,,4000,1792,,UP WP (4).xlsx,UP WP v4
+4,North,SK IRON STORE,UP,Bareilly,Baheti Deha Jangir Kargana,9837163664.0,Bareilly,,28.324208',79.387563',Wall ( 35.5x12),,30.05.2025,,,,,4000,426,,UP WP (4).xlsx,UP WP v4
+5,North,M/S SINGH TRADERS,UP,Prayagraj,Nani Taluka,77248 60024,Prayagraj,,25.391726',81.870962',Plusmedia Wall No.01(29x13.5)-6x3,,21.05.2025,,,,,4000,373.5,,UP WP (4).xlsx,UP WP v4
+6,North,Shyama Construction,UP,VARANASI,,9415302508.0,,,,,,,,,,,,4000,,,UP WP (4).xlsx,UP WP v4
+,North,Mishra Building Solutions,UP,Varanasi,Varanasi,7007599046.0,Varanasi,,25.386445',82.990676',Satar Gate Piler (70x12),,12.06.2025,,,,,4000,840,,UP WP (4).xlsx,UP WP v4
+,,Tapesara Traders,UP,Varanasi,Goithaha,,Varanasi,,25.385353',83.002445',Satar (25x9),,12.06.2025,,,,,,225,,UP WP (4).xlsx,UP WP v4
+,North,Keshav Steel,UP,Varanasi,Dafi Nh19,9415205156.0,Varanasi,,25.246986',82.976283',Wall (25x34 Gate 20x8x2 Piler 16x11Less 4x4),,25.05.2025,,,,,4000,1330,,UP WP (4).xlsx,UP WP v4
+,North,Sujata Associates,UP,VARANASI,Godhana,9792011112.0,Varanasi,,25.252641',83.138196',Wall (47x13.5),,31.05.2025,,,,,4000,634.5,,UP WP (4).xlsx,UP WP v4
+7,North,SINGH BROTHERS ENGINEERING,UP,VARANASI,Sarai Dangari Kala,9838808962.0,Varanasi,,25.23044',82.981649',Pm.Wall (36x15),,21.05.2025,,,,,4000,540,,UP WP (4).xlsx,UP WP v4
+8,North,Abhishek enterprises,UP,Bhadoi,Gopiganj,9838859705.0,Bhadohi,,25.288843',82.433462',"Pm Wall1(10x9,6x4)",,28.05.2025,,,,,4000,114,,UP WP (4).xlsx,UP WP v4
+9,North,SINGHAL IRON AND HOUSING SOLUTIONS,UP,MORADABAD,Mangupura,9899000278.0,New Moradabad,,28.827678',78.703187',Pm Wall No.1(58x14.5),,22.05.2025,,,,,4000,841,,UP WP (4).xlsx,UP WP v4
+10,North,Gopal iron store,UP,MORADABAD,,9837032980.0,,,,,,,,,,,,4000,,,UP WP (4).xlsx,UP WP v4
+11,North,Pooja Hardware & Steel Corporation,UP,NAJIBABBAD,Puri National Highway Ghisatpuri,9917000016.0,Najibababad Meerut,,29.618664',78.360698',Wall 39(43x16.5),,17.06.2025,,,,,4000,709.5,,UP WP (4).xlsx,UP WP v4
+12,North,J.P Steel & Sons,UP,Meeerut,,9837020508.0,,,,,,,,,,,,4000,,,UP WP (4).xlsx,UP WP v4
+13,North,MAMVEER TRADERS,UP,Meerut,Anand Vihar Colony,9927010251.0,Meerut,,28.977963',77.641623',Wall 10(51x16),,27.05.2025,,,,,4000,816,,UP WP (4).xlsx,UP WP v4
+,North,Mittal Traderes,UP,Meerut,Ekta Nagar Nr. Green City,7017141780.0,Meerut,,29.034535',77.713516',Wall18 (60x9),,31.05.2025,,,,,4000,540,,UP WP (4).xlsx,UP WP v4
+14,North,NANDNI TRADERS,UP,Gangoh,Bypass Road,9412532265.0,Gangoh,,29.781238',77.271342',Wall 20(30x8),,03.06.2025,,,,,4000,240,,UP WP (4).xlsx,UP WP v4
+15,North,AMAR CEMENT  STORE,UP,SAHARANPUR,Titri Dehat,9758026530.0,Saharanpur,,29.679688',77.311022',Wall (63.5x14),,10.06.2025,,,,,4000,889,,UP WP (4).xlsx,UP WP v4
+16,North,Steel centre,UP,Ghazipur,Bansibazar,9415862470.0,Ghazipur,,25.577771',83.55254',Satar ( 22x10),,24.05.2025,,,,,4000,220,,UP WP (4).xlsx,UP WP v4
+17,North,Keshari bhandar,UP,mirzapur,Mirzapur,9580127502.0,Mirzapur,,25.115277',83.034559',Wall ( 28x13),,04.06.2025,,,,,4000,364,,UP WP (4).xlsx,UP WP v4
+18,North,Ramesh Enterprises,UP,PYRAGRAJ,Vishnapuri Colony,8303001995.0,Prayagraj,,25.453113',81.751276,Wall 12 ( 70x16),,24.05.2025,,,,,4000,1120,,UP WP (4).xlsx,UP WP v4
+19,North,M/S ADARSH AGARHARI TRADERS,UP,MAHRAJGANJ,Senduriya,9794110105.0,Maharajganj,,27.198624',83.646177',Satar (50x11),,07.06.2025,,,,,4000,550,,UP WP (4).xlsx,UP WP v4
+20,North,MAHAVIR TRADERS,UP,GORAKHPUR,Mannipur Gola,,Gorakhpur,,26.339922',83.364647',Satar (30x11),,02.06.2025,,,,,4000,330,,UP WP (4).xlsx,UP WP v4
+21,North,JAISWAL TRADERS,UP,BALLIA,Rasra,9435647897.0,Ballia,,25.860843',83.849094',"Pm Shop (12x8,.12x10.5,12x5.5,11x4)",,21.05.2025,,,,,4000,332,,UP WP (4).xlsx,UP WP v4
+22,North,RKV ENTERPRISES,UP,DEORIA,Lar,9580050007.0,Deoria,,26.207244',83.975437',"Satar (30x10,6x3x2)",,13.06.2025,,,,,4000,336,,UP WP (4).xlsx,UP WP v4
+23,North,AYAN BUIDING MATERIAL AND SUPPLIER,UP,KUSHINAGAR,Naika Chhapra,9565417444.0,Kushinagar,,26.759085',83.910688',Satar 1(15x10.5),,15.06.2025,,,,,4000,157.5,,UP WP (4).xlsx,UP WP v4
+24,North,BAJRANG TRADERS,UP,MAHRAJGANJ,Doma Bridge,,Maharajganj,,27.304295',83.790387',Satar (75x12),,15.06.2025,,,,,4000,900,,UP WP (4).xlsx,UP WP v4
+25,North,SAMIKSHA ND SIDHI ENTERPRISES,UP,MAHRAJGANJ,Paniyara Road,9451213660.0,Maharajganj,,26.971735',83.590413',Wall (95x21),,05.06.2025,,,,,4000,1995,,UP WP (4).xlsx,UP WP v4
+26,North,TANUSH IRON STORE,UP,AZAMGARH,,,,,,,,,,,,,,4000,,,UP WP (4).xlsx,UP WP v4
+27,North,RIKHAI LAL BINDESWARI PRASAD,UP,AZAMGARH,Jafarpur,,Azamgarh,,26.04047',83.149987',Wall 10(38x14),,09.06.2025,,,,,4000,532,,UP WP (4).xlsx,UP WP v4
+28,North,SUKLA JI TRADERS,UP,AZAMGARH,Gandhi Nagar Colony,7007483433.0,Azamgarh,,26.088602',83.187935',"Wall1 (35x10,11x4)",,07.06.2025,,,,,4000,394,,UP WP (4).xlsx,UP WP v4
+29,North,KAUSODHAN TRADERS,UP,MAHRAJGANJ,Badihari,,Maharajganj,,27.288164',83.339624',Wall (70x20),,19.06.2025,,,,,4000,1400,,UP WP (4).xlsx,UP WP v4
+30,North,SHREE AMBAY TRADERS,UP,DEORIA,Ramgulam Tola,9415827792.0,Deoria,,26.511128',83.78782',Satar (90x10),,15.06.2025,,,,,4000,900,,UP WP (4).xlsx,UP WP v4
+31,North,MAA DURGA TRADERS,UP,MAHRAJGANJ,Kohawal,,Maharajganj,,27.314491',83.68421',"Satar Front Piler (95x12,32x7)",,12.06.2025,,,,,4000,1364,,UP WP (4).xlsx,UP WP v4
+32,North,GARG AND ASSOCIATE,UP,GORAKHPUR,Deoria Rd Khorabar,,Gorakhpur,,26.720967',83.43764',Wall (50x14.5),,28.05.2025,,,,,4000,725,,UP WP (4).xlsx,UP WP v4
+,North,Ma Durga Construction,UP,Lucknow,Gomti nagar,,Lucknow,,,,Wall (10x9),,24.06.2025,,,,,,90,,UP WP (4).xlsx,UP WP v4
+,North,India Steel Salse,UP,Lucknow,Krishna Nagar Alambagh,,Lucknow,,,,Wall (60x7.5),,23.06.2025,,,,,,450,,UP WP (4).xlsx,UP WP v4
+33,North,M/S VAISHNAVI TRADING CORPORATION,UP,Lucknow,,9415755978.0,,,,,,,,,,,,4000,,,UP WP (4).xlsx,UP WP v4
+34,North,M/S PANDEY TRADING COMPANY,UP,Gonda,,9140988843.0,,,,,,,,,,,,4000,,,UP WP (4).xlsx,UP WP v4
+1,NW,Kamya Steel,SE,Sonipat,"Siddharth Enclave Sector 2, 
+Sonipat – Haryana",,,OK,28.976554,77.051352,BRANDHUT- 01/01,,,,,19-05-2025,,,200,,WP - 100625 (4).xlsx,WP Jun25 - HR
+2,NW,Shri Shyam Steel,SE,Sonipat,"Near Rathan Dhaba , Pacca Bagh,
+ Kharkhoda, Sonipat – Haryana",,,OK,28.870876,76.922017,BRANDHUT- 02/08,Shutter,,,,21-05-2025,,,434,,WP - 100625 (4).xlsx,WP Jun25 - HR
+3,NW,"Gupta Trading 
+Company",SE,Rohtak,"Sampla – Jhajjar Rd, Rohtak – Haryana",,,OK,,,BRANDHUT- 03/13,,,,,23-05-2025,,,690,,WP - 100625 (4).xlsx,WP Jun25 - HR
+4,NW,Shri Balaji Iron Store,SE,Jhajjar,"Silani Gate, Jhajjar – Haryana",,,OK,,,BRANDHUT- 04/18,,,,,24-05-2025,,,672,,WP - 100625 (4).xlsx,WP Jun25 - HR
+5,NW,"Riya Trading 
+Comapny",SE,Gurugram,"Sector 6 Pataudi, Gurugram – Haryana",,,OK,,,BRANDHUT- 01/01,,,,,19-05-2025,,,800,,WP - 100625 (4).xlsx,WP Jun25 - HR
+6,NW,Rahul Steel,SE,Gurugram,"Basai Rd Vikas Nagar Sector 10, 
+Gurugram – Haryana",,,OK,,,BRANDHUT- 02/06,,,,,20-05-2025,,,936,,WP - 100625 (4).xlsx,WP Jun25 - HR
+7,NW,"Shivay Building
+ Material Supplier",SE,Gurugram,"Samaspur Sector 51, Gurugram – Haryana",,,OK,,,BRANDHUT- 03/11,,,,,21-05-2025,,,315,,WP - 100625 (4).xlsx,WP Jun25 - HR
+8,NW,Shree Shyam Steel,SE,Gurugram,"Hamilton Ct Rd, DLF Phase 4, Gurugram – Haryana",,,OK,,,BRANDHUT- 04/13,,,,,22-05-2025,,,1105,,WP - 100625 (4).xlsx,WP Jun25 - HR
+9,NW,Ahuja Enterprises,SE,Gurugram,"Baluda Road Sohana, Gurugram – Haryana",,,OK,,,BRANDHUT- 05/15,,,,,22-05-2025,,,640,,WP - 100625 (4).xlsx,WP Jun25 - HR
+10,NW,"Amba Trading 
+Comapny",SE,Gurugram,"Block G Sushant Lok, Gurugram – Haryana",,,OK,,,BRANDHUT- 06/23,,,,,25-05-2025,,,535.5,,WP - 100625 (4).xlsx,WP Jun25 - HR
+11,NW,Chopra Enterprises,SE,Gurugram,"Near rajeev Chowk, Dhumaspur,
+ Gurugram – Haryana",,,OK,,,BRANDHUT- 07/28,,,,,26-05-2025,,,380,,WP - 100625 (4).xlsx,WP Jun25 - HR
+12,NW,Kanha Ji Traders,SE,Dadri,"Sector 8 Gamari Rd Bichla Bass, 
+Chakhri Dadri – Haryana",,,OK,28.586941,76.267988,BRANDHUT- 08/34,,,,,28-05-2025,,,1575,,WP - 100625 (4).xlsx,WP Jun25 - HR
+13,NW,Chaudhary Cement Store,SW,Bhiwani,"Kitlana, Bhiwani – Haryana",,,OK,28.67587,76.174818,BRANDHUT- 09/37,,,,,29-05-2025,,,1501.5,,WP - 100625 (4).xlsx,WP Jun25 - HR
+14,NW,Surajbhan Niraniya Sales Corporation,SW,Bhiwani,"Shakti Nagar, Bhiwani – Haryana",,,OK,28.756312,76.1477314,BRANDHUT- 10/43,,,,,31-05-2025,,,1207,,WP - 100625 (4).xlsx,WP Jun25 - HR
+15,NW,Aggarwal Traders,West,Hisar,"Jagdish Colony Hansi, Hisar – Haryana",,,OK,29.104269,75.977974,BRANDHUT- 11/47,,,,,02-06-2025,,,1785,,WP - 100625 (4).xlsx,WP Jun25 - HR
+16,NW,Shree Shyam Steel,West,Sirsa,"Ding Mod, Sirsa – Haryana",,,OK,29.524386,75.276518,BRANDHUT- 12/49,,,,,03-06-2025,,,936,,WP - 100625 (4).xlsx,WP Jun25 - HR
+17,North,Mangala Steel,SE,Palwal,"Gandhi Ashram Colony, Palwal",,,OK,28.150151,77.330228,BRANDHUT- 01/01,,,,,02-06-2025,,,588,,WP - 100625 (4).xlsx,WP Jun25 - HR
+18,North,Gaurav Steels,SE,Faridabad,"Nangla Gurjan Sohana Rd, Faridabad – Haryana",,,OK,28.358208,77.268614,BRANDHUT- 02/04,Shutter,,,,04-06-2025,,,320,,WP - 100625 (4).xlsx,WP Jun25 - HR
+19,North,Sharma Steel & Pipes,SE,Rewari,"Dharuhera Sohana Rd, Sector 4a, Rewari",,,OK,28.207025,76.798197,BRANDHUT- 03/08,,,,,04-06-2025,,,450,,WP - 100625 (4).xlsx,WP Jun25 - HR
+20,North,Goel Trading Comapny,West,Rohtak,"New Gain Market, Rohtak Haryana",,,OK,,,BRANDHUT- 04/23,,,,,2025-05-25 00:00:00,,,304,,WP - 100625 (4).xlsx,WP Jun25 - HR
+21,North,Kapil Buil Material Supplier,West,Rohtak,Tegor Colony  Sector -27 Rohtak Haryana,,,OK,,,BRANDHUT- 05/30,,,,,2025-05-27 00:00:00,,,319,,WP - 100625 (4).xlsx,WP Jun25 - HR
+22,North,A.K. Khokhar Trading,West,Rohtak,Kansala  Haryana,,,OK,,,BRANDHUT-06/33,,,,,2025-05-27 00:00:00,,,384,,WP - 100625 (4).xlsx,WP Jun25 - HR
+23,North,"Sohan Trading 
+Company",SE,Sonipat,Gohana Sonipat- Haryana,,,OK,29.136279,76.675149,BRANDHUT-07-38,,,,,2025-05-29 00:00:00,,,1098,,WP - 100625 (4).xlsx,WP Jun25 - HR
+24,,,SE,Sonipat,,,,OK,29.142121,76.680789,BRANDHUT-07-41,,,,,2025-05-29 00:00:00,,,1148,,WP - 100625 (4).xlsx,WP Jun25 - HR
+24,North,"Baba Shyot Nath
+ Cement Store",West,Rohtak,Bhagth Singh Colony Meham - Rohtak,,,OK,28.965957,76.30671,BRANDHUT-08/42,,,,,2025-05-30 00:00:00,,,1200,,WP - 100625 (4).xlsx,WP Jun25 - HR
+25,North,Shashi Enterprises,West,Hisar,Azad Nager - Hisar Haryana,,,OK,29.128618,75.711067,BRANDHUT-09/48,,,,,2025-06-01 00:00:00,,,1100,,WP - 100625 (4).xlsx,WP Jun25 - HR
+26,North,Shree Ganesh Steel,SE,Fetehabad,"Fetehabad, Haryana",,,OK,29.49708,75.454119,BRANDHUT-10/52,,,,,2025-06-02 00:00:00,,,1700,,WP - 100625 (4).xlsx,WP Jun25 - HR
+27,North,"Khatu Shyam
+ Enterprises",SE,Fetehabad,"Bhattu Mandi, Fatehabad – Haryana",,,OK,29.390292,75.339278,BRANDHUT -10/55,,,,,03-06-2025,,,90,,WP - 100625 (4).xlsx,WP Jun25 - HR
+28,North,Mittal Iron Store,SE,Sirsa,"Mamera, Sirsa – Haryana",,,OK,29.426432,74.718446,BRANDHUT -11/59,,,,,05-06-2025,,,825,,WP - 100625 (4).xlsx,WP Jun25 - HR
+29,North,"Jai Baba Mohan 
+Ram Infratech",SE,Gurugram,"Koyal vihar Sector 52, Gurugram – Haryana",,,OK,28.435195,77.045477,BRANDHUT-29/14,,,,,06-06-2025,,,282,,WP - 100625 (4).xlsx,WP Jun25 - HR
+30,North,Shiv Trading Company,SE,Gurugram,"Koyal vihar Sector 52, Gurugram – Haryana",,,OK,28.43376,77.075427,BRANDHUT-30/22,,,,,08-06-2025,,,120,,WP - 100625 (4).xlsx,WP Jun25 - HR
+31,North,Haryana Steel Company,SE,Gurugram,"Khalikpur, Gurugram – Haryana",,,OK,28.480019,76.79904,BRANDHUT-31/26,Shutter,,,,09-06-2025,,,500,,WP - 100625 (4).xlsx,WP Jun25 - HR
+32,North,Tuteja Steel Corporation,SE,Gurugram,"Shakti Nagar Model Town 
+Sector 11, Gurugram – Haryana",,,OK,28.457042,77.017382,BRANDHUT-32/33,Shutter,,,,11-06-2025,,,390,,WP - 100625 (4).xlsx,WP Jun25 - HR
+32,North,R.S Building Material,SE,Sirsa,"Maharana Pratap Chowk 
+Near Ajay Vatika Palace, Sirsa – Haryana",,,OK,29.535557,75.05722,BRANDHUT-33/51,Shutter,,,,04-06-2025,,,693,,WP - 100625 (4).xlsx,WP Jun25 - HR
+1,North,Purnima Steel Trader,UP,Ghaziabad,,9811116457,,,,,,,,,,,Need contact no,,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+2,North,NARENDER STEELS,UP,Ghaziabad,,9811141295,,,,,,,,,,,,,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+3,North,LAKSHMI STEELS,UP,Ghaziabad,,9811222765,,,,,,,,,,,,,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+4,North,MAMVEER TRADERS,UP,Ghaziabad,,9927029216,,,,,S-31,,,,,,,3000,325,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+5,North,LALIT TRADERS,UP,Ghaziabad,,9917000672,Modinagar,,28.870402,77.54154,S-3,,,,,2025-05-29 00:00:00,,3000,833,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+6,North,TRIVENI STEELs,UP,Ghaziabad,,9811041672,,,,,S-24,,,,,,,3000,156,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+7,North,MOHAN STEELS,UP,Ghaziabad,,9810295380,,,,,S-21,,,,,,,3000,476,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+8,North,SHREE MAHAKAL STEELS,UP,Ghaziabad,,9810539685,Dadri,,28.551089,77.554934,S-7,,,,,,,3000,731,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+9,North,SK ISPAT,UP,Ghaziabad,,9999224685,,,,,,,,,,,,,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+10,North,RUBY ENGINNERING & STEEL TRADERS,UP,Ghaziabad,,9312572426,,,,,S-14,,,,,,,3000,1330,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+11,North,RAJDHANI STEEL,UP,Ghaziabad,,9897835177,,,,,,,,,,,,3000,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+12,North,PURNIMA STEEL SYNDICATE,UP,Ghaziabad,,9811116457,,,,,,,,,,,Ok for wall painting,3000,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+13,North,BALAJI STEELS,UP,Ghaziabad,,9899171135,Loha Mandi,,28.646134,77.454119,S-10,,,,,,,3000,1232,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+14,North,GAJRAJ ENTERPRISES,UP,Ghaziabad,,98108003320,,,,,,,,,,,Need contact no,3000,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+15,North,GANGOTRI STEEL SYNDICATE,UP,Ghaziabad,,9810021885,,,,,S-16,,,,,,,3000,1260,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+16,North,MARUTI STEELS,UP,Ghaziabad,,9899954427,,,,,,,,,,,,,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+17,North,ARSH ENTERPRISE,UP,Ghaziabad,,9259529737,Modinagar,,28.850472,77.565948,S/1,,,,,2025-05-26 00:00:00,,3000,3108,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+18,North,MITTAL TRADERS,UP,Ghaziabad,,8447677996,,,,,,,,,,,,3000,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+,North,Delhi Steel,Up,Ghazibad,,9811025179,Loni,,,,,,,,,,,3000,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+,North,Tanisk,UP,Ghazibad,,9810013804,,,,,S-30,,,,,,,3000,323,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+,North,RR Iron Store,up,Ghazibad,,9212003330,Meerut Road,,,,S-24,,,,,,,3000,486,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+,North,Shri Balagi,UP,Ghazibad,,9818151716,Meerut Road,,,,,,,,,,,5000,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+,North,SOR Steel,UP,Ghazibad,,9953580208,Ghazibad,,,,,,,,,,,3000,0,,WP - 100625 (4).xlsx,WP Jun25 - NCR
+1,NW,"Shree Shyam Building
+ Material Supplier",NE,Churu,"Churu, Rajasthan",,,OK,28.085266,74.639559,BRANDHUT- 01/01,,,,,19-05-2025,,,555,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+2,NW,Aggarwal Steel,NE,Sikar,"Ringus, Sikar – Rajasthan",,,OK,27.372544,75.566086,BRANDHUT- 02/07,,,,,21-05-2025,,,319,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+3,NW,Bala Ji Traders,NE,Nagpur,"Sankhwas Road, Pipar City, Nagpur – Rajasthan",,,OK,26.400937,73.52636,BRANDHUT- 03/13,,,,,24-05-2025,,,2260.5,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+4,NW,Roop Steel,WEST,Jodhpur,"Gujrawas khurd,  Jodhpur - Rajasthan",,,OK,26.332826,73.137464,BRANDHUT - 04/16,,,,,2025-05-26 00:00:00,,,963.5,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+5,NW,Aarti Steel,WEST,Jodhpur,Jodhpur  - Rajasthan,,,OK,26.149215,72.91035,BRANDHUT05/21,,,,,2025-05-29 00:00:00,,,1092,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+6,NW,Kabra Iron Agencies,WEST,Jodhpur,Jodhpur  - Rajasthan,,,OK,26.247599,72966496,BRANDHUT-06/23,,,,,2025-05-29 00:00:00,,,512,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+7,NW,Rajasthan Steel,WEST,Jodhpur,"Heavy Electricn Area Basni, Jodhpur  - Rajasthan",,,OK,26.259126,73.005061,BRANDHT-07/27,,,,,2025-05-31 00:00:00,,,504,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+8,NW,Shakti Steel,WEST,Jodhpur,"Abhishek Nager  Pal Gaon, Jodhpur - Rajasthan",,,OK,26.207421,72.985855,BRANDHT-08/29,,,,,31-05-2025,,,994.5,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+9,NW,Vijay Laxmi Enterprises,WEST,Jodhpur,"Sangariya Bypass Rd, Jodhpur – Rajasthan",,,OK,26.19916,72.99499,BRNDHUT-09/35,,,,,2025-06-02 00:00:00,,,1137.5,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+10,NW,Royal Steel - Jodhpur,WEST,Jodhpur,"Falaudi Industrial Area, Jodhpur – Rajasthan",,,OK,27.10764,72.37073,BRANDHUT-09/39,,,,,2025-06-04 00:00:00,,,1997.5,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+11,NW,Jugal Industries,WEST,Jaisalmer,"Riico Industrial Area, Gandhi Nagar, Jaisalmer – Rajasthan",,,OK,26.9277661,70.944641,BRANDHUT-11/42,,,,,05-06-2025,,,1755,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+12,NW,Mahaveer Steel,WEST,Jaisalmer,"Pokhran, Jaisalmer – Rajsthan",,,OK,26.93252,71.904678,BRANDHUT-12/44,,,,,08-06-2025,,,300,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+13,NW,Mahadev Steel,WEST,Jodhpur,"Jodhpur Bypass Rd, Bhaskar Chouraha, Jodhpur – Rajasthan",,,OK,26.728582,72.909128,BRANDHUT-13/46,,,,,09-06-2025,,,340,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+14,NW,Neelkanth Steel,WEST,Jodhpur,"Edgaanh Rd, Bilara, Jodhpur – Rajasthan",,,OK,26.190952,73.700196,BRANDHUT-14/54,,,,,11-06-2025,,,1848,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+15,NW,R.B Traders,North,Ganganagar,"New Dhan Mandi, Srinagar
+ – Ganganagar – Rajasthan",,,OK,29.914944,73.869653,BRANDHUT-15/01,,,,,06-06-2025,,,237.5,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+16,NW,Shree Madhav Steel,North,Didwana – Kuchaman,"Ladnun, Didwana – Kuchaman – Rajasthan",,,OK,27.636128,74.399586,BRANDHUT-16/16,,,,,08-06-2025,,,700,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+17,NW,Akshay Iron Store,NE,Sikar,"Neem Ka Thana, Sikar – rajasthan",,,OK,27.733019,75.771153,BRANDHUT-17/23,,,,,10-06-2025,,,1488,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+18,NW,Shree Bala Ji Steel,EC,Jaipur,"Bagru, Jaipur – Rajasthan",,,OK,26.809248,75.554347,BRANDHUT-18/26,,,,,11-06-2025,,,1080,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+19,NW,Jhalani Steel,East,Dausa,"Bandikui, Dausa – Rajasthan",,,OK,27.03599,76.563812,BRANDHUT-19/31,,,,,12-06-2025,,,903,,WP - 100625 (4).xlsx,WP Jun25 - Rajasthan
+1,NW,Kamya Steel,SE,Sonipat,"Siddharth Enclave Sector 2, 
+Sonipat – Haryana",,,OK,28.976554,77.051352,BRANDHUT- 01/01,,,,,19-05-2025,,,200,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+2,NW,Shri Shyam Steel,SE,Sonipat,"Near Rathan Dhaba , Pacca Bagh,
+ Kharkhoda, Sonipat – Haryana",,,OK,28.870876,76.922017,BRANDHUT- 02/08,Shutter,,,,21-05-2025,,,434,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+3,NW,"Gupta Trading 
+Company",SE,Rohtak,"Sampla – Jhajjar Rd, Rohtak – Haryana",,,OK,,,BRANDHUT- 03/13,,,,,23-05-2025,,,690,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+4,NW,Shri Balaji Iron Store,SE,Jhajjar,"Silani Gate, Jhajjar – Haryana",,,OK,,,BRANDHUT- 04/18,,,,,24-05-2025,,,672,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+5,NW,"Riya Trading 
+Comapny",SE,Gurugram,"Sector 6 Pataudi, Gurugram – Haryana",,,OK,,,BRANDHUT- 01/01,,,,,19-05-2025,,,800,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+6,NW,Rahul Steel,SE,Gurugram,"Basai Rd Vikas Nagar Sector 10, 
+Gurugram – Haryana",,,OK,,,BRANDHUT- 02/06,,,,,20-05-2025,,,936,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+7,NW,"Shivay Building
+ Material Supplier",SE,Gurugram,"Samaspur Sector 51, Gurugram – Haryana",,,OK,,,BRANDHUT- 03/11,,,,,21-05-2025,,,315,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+8,NW,Shree Shyam Steel,SE,Gurugram,"Hamilton Ct Rd, DLF Phase 4, Gurugram – Haryana",,,OK,,,BRANDHUT- 04/13,,,,,22-05-2025,,,1105,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+9,NW,Ahuja Enterprises,SE,Gurugram,"Baluda Road Sohana, Gurugram – Haryana",,,OK,,,BRANDHUT- 05/15,,,,,22-05-2025,,,640,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+10,NW,"Amba Trading 
+Comapny",SE,Gurugram,"Block G Sushant Lok, Gurugram – Haryana",,,OK,,,BRANDHUT- 06/23,,,,,25-05-2025,,,535.5,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+11,NW,Chopra Enterprises,SE,Gurugram,"Near rajeev Chowk, Dhumaspur,
+ Gurugram – Haryana",,,OK,,,BRANDHUT- 07/28,,,,,26-05-2025,,,380,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+12,NW,Kanha Ji Traders,SE,Dadri,"Sector 8 Gamari Rd Bichla Bass, 
+Chakhri Dadri – Haryana",,,OK,28.586941,76.267988,BRANDHUT- 08/34,,,,,28-05-2025,,,1575,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+13,NW,Chaudhary Cement Store,SW,Bhiwani,"Kitlana, Bhiwani – Haryana",,,OK,28.67587,76.174818,BRANDHUT- 09/37,,,,,29-05-2025,,,1501.5,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+14,NW,Surajbhan Niraniya Sales Corporation,SW,Bhiwani,"Shakti Nagar, Bhiwani – Haryana",,,OK,28.756312,76.1477314,BRANDHUT- 10/43,,,,,31-05-2025,,,1207,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+15,NW,Aggarwal Traders,West,Hisar,"Jagdish Colony Hansi, Hisar – Haryana",,,OK,29.104269,75.977974,BRANDHUT- 11/47,,,,,02-06-2025,,,1785,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+16,NW,Shree Shyam Steel,West,Sirsa,"Ding Mod, Sirsa – Haryana",,,OK,29.524386,75.276518,BRANDHUT- 12/49,,,,,03-06-2025,,,936,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+17,North,Mangala Steel,SE,Palwal,"Gandhi Ashram Colony, Palwal",,,OK,28.150151,77.330228,BRANDHUT- 01/01,,,,,02-06-2025,,,588,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+18,North,Gaurav Steels,SE,Faridabad,"Nangla Gurjan Sohana Rd, Faridabad – Haryana",,,OK,28.358208,77.268614,BRANDHUT- 02/04,Shutter,,,,04-06-2025,,,320,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+19,North,Sharma Steel & Pipes,SE,Rewari,"Dharuhera Sohana Rd, Sector 4a, Rewari",,,OK,28.207025,76.798197,BRANDHUT- 03/08,,,,,04-06-2025,,,450,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+20,North,Goel Trading Comapny,West,Rohtak,"New Gain Market, Rohtak Haryana",,,OK,,,BRANDHUT- 04/23,,,,,2025-05-25 00:00:00,,,304,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+21,North,Kapil Buil Material Supplier,West,Rohtak,Tegor Colony  Sector -27 Rohtak Haryana,,,OK,,,BRANDHUT- 05/30,,,,,2025-05-27 00:00:00,,,319,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+22,North,A.K. Khokhar Trading,West,Rohtak,Kansala  Haryana,,,OK,,,BRANDHUT-06/33,,,,,2025-05-27 00:00:00,,,384,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+23,North,"Sohan Trading 
+Company",SE,Sonipat,Gohana Sonipat- Haryana,,,OK,29.136279,76.675149,BRANDHUT-07-38,,,,,2025-05-29 00:00:00,,,1098,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+24,,,SE,Sonipat,,,,OK,29.142121,76.680789,BRANDHUT-07-41,,,,,2025-05-29 00:00:00,,,1148,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+24,North,"Baba Shyot Nath
+ Cement Store",West,Rohtak,Bhagth Singh Colony Meham - Rohtak,,,OK,28.965957,76.30671,BRANDHUT-08/42,,,,,2025-05-30 00:00:00,,,1200,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+25,North,Shashi Enterprises,West,Hisar,Azad Nager - Hisar Haryana,,,OK,29.128618,75.711067,BRANDHUT-09/48,,,,,2025-06-01 00:00:00,,,1100,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+26,North,Shree Ganesh Steel,SE,Fetehabad,"Fetehabad, Haryana",,,OK,29.49708,75.454119,BRANDHUT-10/52,,,,,2025-06-02 00:00:00,,,1700,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+27,North,"Khatu Shyam
+ Enterprises",SE,Fetehabad,"Bhattu Mandi, Fatehabad – Haryana",,,OK,29.390292,75.339278,BRANDHUT -10/55,,,,,03-06-2025,,,90,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+28,North,Mittal Iron Store,SE,Sirsa,"Mamera, Sirsa – Haryana",,,OK,29.426432,74.718446,BRANDHUT -11/59,,,,,05-06-2025,,,825,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+29,North,"Jai Baba Mohan 
+Ram Infratech",SE,Gurugram,"Koyal vihar Sector 52, Gurugram – Haryana",,,OK,28.435195,77.045477,BRANDHUT-29/14,,,,,06-06-2025,,,282,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+30,North,Shiv Trading Company,SE,Gurugram,"Koyal vihar Sector 52, Gurugram – Haryana",,,OK,28.43376,77.075427,BRANDHUT-30/22,,,,,08-06-2025,,,120,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+31,North,Haryana Steel Company,SE,Gurugram,"Khalikpur, Gurugram – Haryana",,,OK,28.480019,76.79904,BRANDHUT-31/26,Shutter,,,,09-06-2025,,,500,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+32,North,Tuteja Steel Corporation,SE,Gurugram,"Shakti Nagar Model Town 
+Sector 11, Gurugram – Haryana",,,OK,28.457042,77.017382,BRANDHUT-32/33,Shutter,,,,11-06-2025,,,390,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+32,North,R.S Building Material,SE,Sirsa,"Maharana Pratap Chowk 
+Near Ajay Vatika Palace, Sirsa – Haryana",,,OK,29.535557,75.05722,BRANDHUT-33/51,Shutter,,,,04-06-2025,,,693,,WP-200625 (5).xlsx,WP Jun25v2 - HR
+1,NW,"Shree Shyam Building
+ Material Supplier",NE,Churu,"Churu, Rajasthan",,,OK,28.085266,74.639559,BRANDHUT- 01/01,,,,,19-05-2025,,,555,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+2,NW,Aggarwal Steel,NE,Sikar,"Ringus, Sikar – Rajasthan",,,OK,27.372544,75.566086,BRANDHUT- 02/07,,,,,21-05-2025,,,319,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+3,NW,Bala Ji Traders,NE,Nagpur,"Sankhwas Road, Pipar City, Nagpur – Rajasthan",,,OK,26.400937,73.52636,BRANDHUT- 03/13,,,,,24-05-2025,,,2260.5,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+4,NW,Roop Steel,WEST,Jodhpur,"Gujrawas khurd,  Jodhpur - Rajasthan",,,OK,26.332826,73.137464,BRANDHUT - 04/16,,,,,2025-05-26 00:00:00,,,963.5,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+5,NW,Aarti Steel,WEST,Jodhpur,Jodhpur  - Rajasthan,,,OK,26.149215,72.91035,BRANDHUT05/21,,,,,2025-05-29 00:00:00,,,1092,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+6,NW,Kabra Iron Agencies,WEST,Jodhpur,Jodhpur  - Rajasthan,,,OK,26.247599,72966496,BRANDHUT-06/23,,,,,2025-05-29 00:00:00,,,512,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+7,NW,Rajasthan Steel,WEST,Jodhpur,"Heavy Electricn Area Basni, Jodhpur  - Rajasthan",,,OK,26.259126,73.005061,BRANDHT-07/27,,,,,2025-05-31 00:00:00,,,504,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+8,NW,Shakti Steel,WEST,Jodhpur,"Abhishek Nager  Pal Gaon, Jodhpur - Rajasthan",,,OK,26.207421,72.985855,BRANDHT-08/29,,,,,31-05-2025,,,994.5,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+9,NW,Vijay Laxmi Enterprises,WEST,Jodhpur,"Sangariya Bypass Rd, Jodhpur – Rajasthan",,,OK,26.19916,72.99499,BRNDHUT-09/35,,,,,2025-06-02 00:00:00,,,1137.5,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+10,NW,Royal Steel - Jodhpur,WEST,Jodhpur,"Falaudi Industrial Area, Jodhpur – Rajasthan",,,OK,27.10764,72.37073,BRANDHUT-09/39,,,,,2025-06-04 00:00:00,,,1997.5,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+11,NW,Jugal Industries,WEST,Jaisalmer,"Riico Industrial Area, Gandhi Nagar, Jaisalmer – Rajasthan",,,OK,26.9277661,70.944641,BRANDHUT-11/42,,,,,05-06-2025,,,1755,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+12,NW,Mahaveer Steel,WEST,Jaisalmer,"Pokhran, Jaisalmer – Rajsthan",,,OK,26.93252,71.904678,BRANDHUT-12/44,,,,,08-06-2025,,,300,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+13,NW,Mahadev Steel,WEST,Jodhpur,"Jodhpur Bypass Rd, Bhaskar Chouraha, Jodhpur – Rajasthan",,,OK,26.728582,72.909128,BRANDHUT-13/46,,,,,09-06-2025,,,340,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+14,NW,Neelkanth Steel,WEST,Jodhpur,"Edgaanh Rd, Bilara, Jodhpur – Rajasthan",,,OK,26.190952,73.700196,BRANDHUT-14/54,,,,,11-06-2025,,,1848,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+15,NW,R.B Traders,North,Ganganagar,"New Dhan Mandi, Srinagar
+ – Ganganagar – Rajasthan",,,OK,29.914944,73.869653,BRANDHUT-15/01,,,,,06-06-2025,,,237.5,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+16,NW,Shree Madhav Steel,North,Didwana – Kuchaman,"Ladnun, Didwana – Kuchaman – Rajasthan",,,OK,27.636128,74.399586,BRANDHUT-16/16,,,,,08-06-2025,,,700,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+17,NW,Akshay Iron Store,NE,Sikar,"Neem Ka Thana, Sikar – rajasthan",,,OK,27.733019,75.771153,BRANDHUT-17/23,,,,,10-06-2025,,,1488,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+18,NW,Shree Bala Ji Steel,EC,Jaipur,"Bagru, Jaipur – Rajasthan",,,OK,26.809248,75.554347,BRANDHUT-18/26,,,,,11-06-2025,,,1080,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+19,NW,Jhalani Steel,East,Dausa,"Bandikui, Dausa – Rajasthan",,,OK,27.03599,76.563812,BRANDHUT-19/31,,,,,12-06-2025,,,903,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+20,NW,Anup Steel,North,Kota,"Indraprastha Industrial Area, 
+Kota – Rajasthan",,,OK,25.130758,75.864168,BRANDHUT-20/35,,,,,13-06-2025,Sec,,273,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+21,NW,Rajasthan Commercial Corporation,SE,Bhilawara,"Nearmirchi Mandi Gandhinagar, Bhilwara",,,OK,25.346154,74.621146,BRANDHUT-21/40,,,,,14-06-2025,,,902,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+22,NW,Sawariya Iron Store,WEST,Chhitorgarh,"Kapasan, Chhitorgarh – Rajasthan",,,OK,24.877702,74.304613,BRANDHUT-22/41,,,,,15-06-2025,,,920,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+23,NW,Kashu Bhai Steel,North,Churu,"Suratpura, Churu – Rajasthan",,,OK,24.522553,74.181557,BRANDHUT-23/46,,,,,16-06-2025,,,770,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+24,NW,Steel Point,North,Churu,"Neelam Nagar, Banswara – Rajasthan",,,OK,23.530565,74.423347,BRANDHUT-24/50,,,,,17-06-2025,,,882,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+25,NW,Paras Raj,South,Udaipur,"Dabok, Udaipur – Rajasthan",,,OK,24.628412,73.870734,BRANDHUT-25/60,,,,,20-06-2025,,,1160,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+26,NW,Hinglaj Iron Store,WEST,Barmer,"Juna Kiraru Road, Barmer – Rajasthan",,,OK,25.73427,71.376323,BRANDHUT-26/59,,,,,15-06-2025,,,1995,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+27,NW,Bandook Wala Ispat Pvt. Ltd.,South,Udaipur,"Manwa Khera, Udaipur – Rajasthan",,,OK,24.565926,73.747328,BRANDHUT-27/60,,,,,16-06-2025,,,975,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+28,NW,Parasraj Enterprises,South,Udaipur,"Rani Rd, Ramvihar Colony, Barmer – Rajasthan",,,OK,24.56729,73.652273,BRANDHUT-28/63,,,,,17-06-2025,,,1732.5,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+29,NW,Bharat Traders,South,Udaipur,"Debok, Udaipur – Rajasthan",,,OK,24.632356,73.868798,BRANDHUT-29/69,,,,,19-06-2025,,,1210,,WP-200625 (5).xlsx,WP Jun25v2 - Rajasthan
+1,North,Purnima Steel Trader,UP,Ghaziabad,,9811116457,,,,,,,,,,,Need contact no,,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+2,North,NARENDER STEELS,UP,Ghaziabad,,9811141295,,,,,,,,,,,,,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+3,North,LAKSHMI STEELS,UP,Ghaziabad,,9811222765,,,,,,,,,,,,,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+4,North,MAMVEER TRADERS,UP,Ghaziabad,,9927029216,Meerut,,,,S-31,,,,,,,3000,325,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+5,North,LALIT TRADERS,UP,Ghaziabad,,9917000672,Modinagar,,28.870402,77.54154,S-3,,,,,2025-05-29 00:00:00,,3000,833,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+6,North,TRIVENI STEELs,UP,Ghaziabad,,9811041672,,,,,S-24,,,,,,,3000,156,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+7,North,MOHAN STEELS,UP,Ghaziabad,,9810295380,,,,,S-21,,,,,,,3000,476,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+8,North,SHREE MAHAKAL STEELS,UP,Ghaziabad,,9810539685,Dadri,,28.551089,77.554934,S-7,,,,,,,3000,731,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+9,North,SK ISPAT,UP,Ghaziabad,,9999224685,,,,,,,,,,,,,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+10,North,RUBY ENGINNERING & STEEL TRADERS,UP,Ghaziabad,,9312572426,,,,,S-14,,,,,,,3000,1330,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+11,North,RAJDHANI STEEL,UP,Ghaziabad,,9897835177,Meerut,28.929057,77.727282,,S-39,,,,,2025-06-13 00:00:00,,3000,663,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+12,North,PURNIMA STEEL SYNDICATE,UP,Ghaziabad,,9811116457,,,,,,,,,,,,,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+13,North,BALAJI STEELS,UP,Ghaziabad,,9899171135,Loha Mandi,,28.646134,77.454119,S-10,,,,,,,3000,1232,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+14,North,GAJRAJ ENTERPRISES,UP,Ghaziabad,,98108003320,,,,,,,,,,,Need contact no,3000,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+15,North,GANGOTRI STEEL SYNDICATE,UP,Ghaziabad,,9810021885,,,,,S-16,,,,,,,3000,1260,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+16,North,MARUTI STEELS,UP,Ghaziabad,,9899954427,,,,,,,,,,,,,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+17,North,ARSH ENTERPRISE,UP,Ghaziabad,,9259529737,Modinagar,,28.850472,77.565948,S/1,,,,,2025-05-26 00:00:00,,3000,3108,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+18,North,MITTAL TRADERS,UP,Ghaziabad,,8447677996,Shastri Nagar Meerut,,28.963566,77.725839,S-44,,,,,,Shelter Paint,3000,525,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+19,North,Delhi Steel,Up,Ghazibad,,9811025179,Loni,,28.74263,77.287638,S-51,,,,,2025-06-19 00:00:00,,3000,1020,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+20,North,Tanisk,UP,Ghazibad,,9810013804,,,,,S-30,,,,,,,3000,323,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+21,North,RR Iron Store,up,Ghazibad,,9212003330,Meerut Road,,,,S-24,,,,,,,3000,486,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+22,North,Shri Balagi,UP,Ghazibad,,9818151716,Meerut Road,,,,,,,,,,,5000,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+23,North,SOR Steel,UP,Ghazibad,,9953580208,Ghazibad,,,,,,,,,,,3000,0,,WP-200625 (5).xlsx,WP Jun25v2 - NCR-UP
+,,S.No,,,,,,,,,,,,,,,,,,W,WP-200625 (5).xlsx,WP Jun25v2 - Delhi
+,,1,,,,,,,,,,,,,,,,,,55,WP-200625 (5).xlsx,WP Jun25v2 - Delhi
+,,2,,,,,,,,,,,,,,,,,,10,WP-200625 (5).xlsx,WP Jun25v2 - Delhi
+,,3,,,,,,,,,,,,,,,,,,45,WP-200625 (5).xlsx,WP Jun25v2 - Delhi
+,,4,,,,,,,,,,,,,,,,,,32,WP-200625 (5).xlsx,WP Jun25v2 - Delhi
+1,North,Shri Madan Lal Associates LLP,HR,Karnal,"Behind Volkwagen Showroom, G.T. Rd, 
+Opp. Kamboohpura – Karnal",,,OK,29.628134,76.980958,BRANDHUT- 01/01,,,,,02.01.2026,,,780,,Bill No 321 (1).xlsx,Bill 321 - HR
+2,North,"Shree Shyam Ji Building
+ Material Store",HR,Karnal,"Nigdhu, Nilokheri – Karnal",,,OK,29.8369,76.732263,BRANDHUT- 02/01,Shutter,,,,01.01.2026,,,588,,Bill No 321 (1).xlsx,Bill 321 - HR
+3,North,Bansal Building Material Store,HR,Karnal,"Sonkar Road, Tarawari - Karnal",,,OK,29.79618,76.916048,BRANDHUT- 03/01,,,,,01.01.2026,,,1905.5,,Bill No 321 (1).xlsx,Bill 321 - HR
+4,SE,Delhi Steel & Cement,HR,Gurugram,"Jal Vihar Colony, Sector – 46 – Gurugram",,,OK,28.456085,76.990089,BRANDHUT- 04/01,,,,,13.01.2026,,,2124,,Bill No 321 (1).xlsx,Bill 321 - HR
+5,SE,Akshay Udyog,HR,Gurugram,Daultabad Industrial Area – Gurugram,,,OK,28.493301,76.997916,BRANDHUT- 05/01,,,,,14.01.2026,,,28,,Bill No 321 (1).xlsx,Bill 321 - HR
+6,SE,Shree Shyam Steel,HR,Gurugram,Hemilton Court Road – Gurugram,,,OK,28.467161,77.087144,BRANDHUT- 06/01,,,,,17.01.2026,,,90,,Bill No 321 (1).xlsx,Bill 321 - HR
+7,SE,Om Traders,HR,Gurugram,"Maruti Kunj, Near DPS School, Bhondsi – Gurugram",,,OK,28.364808,77.074337,BRANDHUT- 07/01,,,,,15.01.2026,,,760,,Bill No 321 (1).xlsx,Bill 321 - HR
+8,SE,S.R. Enterprises,HR,Gurugram,"Carteripur Marg, Palam Vihar Extension – Gurugram",,,OK,28.497902,77.054885,BRANDHUT- 08/01,,,,,17.01.2026,,,518,,Bill No 321 (1).xlsx,Bill 321 - HR
+9,SE,Vinay Building Material Supplier,HR,Gurugram,"Gohana – Meham Rd, Lakhan Majra – Gurugram",,,OK,29.04816,76.483393,BRANDHUT- 09/01,,,,,18.01.2026,,,1200,,Bill No 321 (1).xlsx,Bill 321 - HR
+10,North,Ganapati Steel,HR,Jind,"Ghanta Ghar, Old Grain Market – Jind",,,OK,29.31109,76.314705,BRANDHUT- 10/01,,,,,19.01.2026,,,460,,Bill No 321 (1).xlsx,Bill 321 - HR
+11,NE,Shakti Steel Traders,HR,Sonipat,"Sant Nagar, Sector – 6, Huda – Sonipat",,,OK,29.411207,76.964429,BRANDHUT – 01/01,,,,,04.01.2026,,,1364,,Bill No 321 (1).xlsx,Bill 321 - HR
+12,NE,Sohan Trading Company,HR,Sonipat,"Sector – 7, Gohana – Sonipat",,,OK,29.13202,76.698312,BRANDHUT – 02/01,,,,,05.01.2026,,,1620,,Bill No 321 (1).xlsx,Bill 321 - HR
+13,NE,Shree Shyam Building Material,HR,Sonipat,"Kharkhoda, Near Kitab Singh Hospital – Sonipat",,,OK,28.871006,76.921342,BRANDHUT – 03/01,,,,,06.01.2026,,,350,,Bill No 321 (1).xlsx,Bill 321 - HR
+14,NE,C.H. Steel,HR,Sonipat,"Sankhol, Bahadurgarh – Jhajjar",,,OK,28.705146,76.905219,BRANDHUT - 04/01,,,,,06.01.2026,,,315,,Bill No 321 (1).xlsx,Bill 321 - HR
+15,NE,Shree Bala Ji Iron Store,HR,Jhajjar,"Yadav Colony, Bahadurgarh - Jhajjar",,,OK,28.594426,76.659828,BRANDHUT -05\01,,,,,08..01.2026,,,544.5,,Bill No 321 (1).xlsx,Bill 321 - HR
+16,NE,City Builder,HR,Rohtak,"Near Petrol Pump, Old Anaj Mandi – Rohtak",,,OK,28.923211,76.62412,BRANDHUT- 06/01,,,,,09.01.2026,,,66,,Bill No 321 (1).xlsx,Bill 321 - HR
+17,NE,Naveen Trading Company,HR,Rohtak,Near Patrol Pamp old Anja Mandir – Rohtak,,,OK,28.885269,76.566734,BRANDHUT- 07/01,,,,,09.01.2026,,,750,,Bill No 321 (1).xlsx,Bill 321 - HR
+18,NE,Shri Krishna Builders & Steel,HR,Rohtak,Oppste Siwach Sanjeevni Hospital - Rohtak,,,OK,28.916829,76.594048,BRANDHUT-08/01,,,,,10.01.2026,,,575,,Bill No 321 (1).xlsx,Bill 321 - HR
+19,NE,Shri Shyam Enterprises,HR,Rohtak,"Bhagotipur- Plot No. 34,35 killa Near, Jio Patrol Pamp - Rohtak",,,OK,28.981088,76.526522,BRANDHUT- 09/01,,,,,11.01.2026,,,553,,Bill No 321 (1).xlsx,Bill 321 - HR
+20,NE,Gupta Trading Company,HR,Rohtak,"Sampla, Garhi Mod - Rohtak",,,OK,28.765604,76.7640412,BRANDHUT- 10/01,,,,,12.01.2026,,,506,,Bill No 321 (1).xlsx,Bill 321 - HR
+21,SE,Sharma Traders,HR,Gurugram,Farukh Nagar – Gurugram,,,OK,28.460686,76.833646,BRANDHUT – 11/01,,,,,13.01.2026,,,857.5,,Bill No 321 (1).xlsx,Bill 321 - HR
+22,East,Krishna Steel,HR,Faridabad,"Opp. Lakhani Chowk, Main Road – Faridabad",,,OK,28.355762,77.29982,BRANDHUT – 12/01,Shutter,,,,16.01.2026,,,378,,Bill No 321 (1).xlsx,Bill 321 - HR
+23,East,Delhi Steel,HR,Faridabad,"60 Fit Road, Sector – 23 – Faridabad",,,OK,28.35598,77.299867,BRANDHUT – 13/01,Shutter,,,,16.01.2026,,,1020,,Bill No 321 (1).xlsx,Bill 321 - HR
+24,East,Preeti Tradelink Pvt. Ltd.,HR,Faridabad,"Kartik Vihar, Sector – 21C – Faridabad",,,OK,28.430721,77.305322,BRANDHUT – 14/01,Shutter,,,,17.01.2026,,,802.5,,Bill No 321 (1).xlsx,Bill 321 - HR
+25,SE,Aggarwal Building Material Store,HR,Palwal,"Hodal Rural, Hodal – Palwal",,,OK,27.886764,77.374645,BRANDHUT – 15/01,Shutter,,,,19.01.2026,,,450,,Bill No 321 (1).xlsx,Bill 321 - HR
+26,SE,Yadav Iron Store,HR,Rewari,Durga Colony – Rewari,,,OK,28.193976,76.635477,BRANDHUT -16/01,,,,,20.01.2026,,,501.5,,Bill No 321 (1).xlsx,Bill 321 - HR
+27,South,Prashant Trading Company,HR,Mahendragarh,"Ateli Mandi, Khor – Mahendragarh",,,OK,28.106111,76.259813,BRANDHUT – 17/01,,,,,21.01.2026,,,288,,Bill No 321 (1).xlsx,Bill 321 - HR
+28,South,Bansal Iron Store,HR,Mahendragarh,"Mahendragarh to Dadri Road, Kharkhara – Mahendragarh",,,OK,28.399587,76.131917,BRANDHUT – 18/01,,,,,22.02.2026,,,1326,,Bill No 321 (1).xlsx,Bill 321 - HR
+29,South,Shree Shyam Trading Company,HR,Bhiwani,Bawani Khera – Bhiwani,,,OK,28.950369,76.045141,BRANDHUT – 19/01,,,,,23.01.2026,,,1083,,Bill No 321 (1).xlsx,Bill 321 - HR
+30,West,Pal Cement & Steel Pvt. Ltd.,HR,Hisar,Mirzapurpur Road – Hisar,,,OK,29.171879,75.770744,BRANDHUT – 20/01,,,,,24.01.2026,,,324,,Bill No 321 (1).xlsx,Bill 321 - HR
+31,West,Dharmveer Timber & Steel Traders,HR,Hisar,Barwala – Hisar,,,OK,29.357804,75.890218,BRANDHUT – 21/01,,,,,27.01.2026,,,1680,,Bill No 321 (1).xlsx,Bill 321 - HR
+32,West,Shree Salasar Trading Company,HR,Hisar,Barwala – Hisar,,,OK,29.357864,75.89002,BRANDHUT – 22/01,,,,,27.01.2026,,,1743,,Bill No 321 (1).xlsx,Bill 321 - HR
+33,North,Om Prakash Building Material,HR,Jind,Pilu Khera – Jind,,,OK,29.356408,76.491645,BRANDHUT – 23/01,Shutter,,,,28.01.2026,,,912,,Bill No 321 (1).xlsx,Bill 321 - HR
+,,s,,,,,,OK,29.356641,76.491596,BRANDHUT – 23/02,,,,,28.01.2026,,,432,,Bill No 321 (1).xlsx,Bill 321 - HR
+34,North,Naveen Kumar Pradeep Kumar,HR,Kaithal,Pundri – Kaithal,,,OK,29.770448,76.566881,BRANDHUT – 24/01,Shutter,,,,30.01.2026,,,1616,,Bill No 321 (1).xlsx,Bill 321 - HR
